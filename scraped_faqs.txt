@@ -1,0 +1,1249 @@
+Question: 1. How can I download my tax return from EmaraTax?
+Answer: Currently, you can only download an acknowledgment for returns submitted in EmaraTax. Once you submit your tax return, you can find the acknowledgement screen from which you can download the acknowledgment. You will also receive an email from the FTA acknowledging your return submission in EmaraTax.
+--------------------------------------------------
+Question: 2. I received the reset password email containing a temporary password. On clicking the EmaraTax link shared in the email, I was redirected to the EmaraTax login page. What should I do?
+Answer: Please follow the instructions provided in the reset password email you received. You will need to login to EmaraTax using the temporary password. Once you are logged in, please follow the on-screen instructions to reset your password. For further information, please refer to the user manual and video for password reset.
+--------------------------------------------------
+Question: 3. Can I sort refunds and payments by date?
+Answer: The list of refunds for VAT and Excise Tax are organized in EmaraTax by date, with the most recent one on top. You can view the list of transactions including payments under the "transaction history" section of the "My payments" dashboard. As this list is already sorted by date, you can filter the list based on your required date range.
+--------------------------------------------------
+Question: 4. Is it obligatory in EmaraTax to make a payment in order to download a soft copy of my registration / deregistration certificate?
+Answer: No.
+--------------------------------------------------
+Question: 5. Where can I find the EmaraTax user manuals?
+Answer: The FTA has published several user manuals covering many topics. Please click on the links for VAT user manuals and Excise Tax user manuals and search for the user manual that you need.
+--------------------------------------------------
+Question: 6. When I create a GIBAN payment reference number, I get an error message saying "Your bank details are being validated, please try again after 15 minutes." What should I do?
+Answer: If you are an existing user and are facing this issue, please contact our Call Center at 80082923 or email us at info@tax.gov.ae and provide screenshots of the issue you are facing along with your GIBAN. If you are a new user and have just registered with the FTA, it will take a couple of hours for your GIBAN to be activated by the Central bank of the UAE. Once this is done, you should be able to create a payment reference number in EmaraTax and complete your GIBAN payment.
+--------------------------------------------------
+Question: 7. How can I cancel a GIBAN payment reference number?
+Answer: You can cancel your payment reference number using the “Allocations pending payment” tab. The liabilities that had been selected as part of that payment reference number will then be released and will be visible again on your "Select and Pay" screen.
+--------------------------------------------------
+Question: 8. Where can I find any reference numbers that I had previously created and not yet made payments for?
+Answer: Please follow the below instructions: • click on “My payments” in the menu on the left side of your screen, • click on “Select and Pay”, • click on “Allocations pending payment”.
+--------------------------------------------------
+Question: 9. Can I make a payment via MagnatiPay after creating a GIBAN payment reference number?
+Answer: Yes you can, as long as you haven't yet made your payment via GIBAN. If you wish to make a payment via MagnatiPay for the same liabilities that you created a payment reference number for, you must first cancel the payment reference number and then proceed to make the payment via MagnatiPay.
+--------------------------------------------------
+Question: 10. What are the charges for payments made via MagnatiPay?
+Answer: The "service charge" levied by MagnatiPay would be 0.68% of the transaction value plus VAT.
+--------------------------------------------------
+Question: 11. Do you want to know more about the Homebuilders' refund process in EmaraTax?
+Answer: Please check this short guide about homebuilder refunds in EmaraTax by clicking here .
+--------------------------------------------------
+Question: 12. Do you want to know more about the refund process for business visitors in EmaraTax?
+Answer: Please check this short guide about homebuilder refunds in EmaraTax by clicking here .
+--------------------------------------------------
+Question: 13. Can I make an advance payment in EmaraTax specifically for a future tax return?
+Answer: You can make an advance payment specifically towards your immediate next tax return by choosing the required option under the "Advance Payment" section of the "My Payments" screen. Your immediate next tax return will be displayed in the “Payment towards your next tax return filing” field. This advance payment will be held on account until your immediate next tax return is filed. Any excess amount after the settlement of the said tax return will then be used to settle any other outstanding or future liabilities strictly on the basis of due dates starting with the oldest liability first. Note that, for example, if your tax period is monthly and you file your December return first and then try to make an advance payment, the tax period listed in the "Payment towards your next tax return filing" field would be the subsequent period (i.e. January) and not the one you just filed (i.e. December). Your advance payment would then be held on account till that subsequent period’s return (i.e. January) is filed and will not be allocated to the December tax return that was just filed. The payment for the December return that you have already filed, would need to be made from the “Select and Pay” screen and not as an advance payment. Note that if you wish to make an advance payment via GIBAN, you must first generate a unique payment reference number in EmaraTax.
+--------------------------------------------------
+Question: 14. Where can I enter my payment reference number on my online banking portal.
+Answer: This will depend on the banking portal you are using. If you don't have a separate field to enter the payment reference number, please enter it in the transaction remarks/comments/description field. Please note that you should only enter the 6 digits of the payment reference number. Please ensure that you do not include any additional text (e.g. "this is my reference number" or "ref #", etc.).
+--------------------------------------------------
+Question: 15. Is the owner and shareholding percentage a mandatory field in my registration application?
+Answer: Yes. You are required to add all the owners and their respective shareholding percentage. The sum of the shareholding percentages across all the owners should be 100%.
+--------------------------------------------------
+Question: 16.  If I have an existing application within the old system will I be able to complete it in the new system?
+Answer: Additional mandatory information has been introduced in your registration form in EmaraTax. As such, if you cannot find your draft registration amendment application in EmaraTax even though you had already created it in the old system, please submit a new registration amendment application in EmaraTax.
+--------------------------------------------------
+Question: 17. How can I link my customs registration number to my TRN?
+Answer: As some of your registration information may have become outdated (e.g. trade license, business activities), you will have to complete your "first amendment" application in EmaraTax by following the below steps: 1) Login to EmaraTax and navigate to your Taxable Person tile 2) Click on the "Actions" button on your VAT or Excise Tax tile to amend your registration application. Once your first amendment application is approved by the FTA, an "Edit" option will be enabled in your “Actions”. Click on "Edit" and follow the steps where you will find the option to link your customs registration number with your TRN.
+--------------------------------------------------
+Question: 18. While completing my registration application in EmaraTax, a pop-up message appeared on my screen stating that my Emirates ID is already used in another VAT registration application. What should I do?
+Answer: EmaraTax checks for duplicate Emirates IDs for all registrants. As such, the Emirates ID that you have provided in your registration application may have already been part of another registration application for a different Taxable Person account and that's why you received the pop-up message. Nevertheless, this pop-up message will not prevent you from proceeding with completing and submitting your registration application.
+--------------------------------------------------
+Question: 19. Do I have to submit a registration amendment application if my trade license is renewed or amended?
+Answer: Yes.
+--------------------------------------------------
+Question: 20. How can I apply for a refund in EmaraTax after submitting my VAT return?
+Answer: If you are in a net refundable position, you can apply for a refund by clicking on “VAT” in your dashboard and choosing VAT311.
+--------------------------------------------------
+Question: 41. What are the e-commerce reporting periods?
+Answer: 1) (18) Eighteen months starting from the first tax period commencing on or after 1 July 2023 for registrants that have exceeded the AED 100 million threshold during the calendar year 2022. 2) Two (2) years starting from the first tax period of the calendar year commencing after the date on which the registrant has exceeded AED 100 million threshold for any year after 2022.
+--------------------------------------------------
+Question: 42. If I notified the FTA of my "Qualifying Registrant" status for e-commerce purposes, can I still deregister for VAT and file my Final VAT return at any time during my identified e-commerce reporting period?
+Answer: Yes. Notifying the FTA of your "Qualifying Registrant" status for e-commerce purposes and having your e-commerce reporting period is set to either 18 months or 2 years doesn’t mean that you have to remain registered for VAT for the full 18 months / 2 years period. You will still be able to deregister and file your final VAT return if you wish to do so.
+--------------------------------------------------
+Question: 43. I have already declared myself as a "Qualifying Registrant" for e-commerce purposes. Where can I see my current status for e-commerce  purposes?
+Answer: You will be able to see your current status for e-commerce purposes at the top of your VAT return screen.
+--------------------------------------------------
+Question: 44. I have already declared myself as a "Qualifying Registrant" for e-commerce purposes and submitted VAT returns under e-commerce reporting? Will I be able to change my "Qualifying Registrant" status through my VAT return?
+Answer: No. You may change your "Qualifying Registrant" status by way of submitting a Voluntary Disclosure.
+--------------------------------------------------
+Question: 45. How will my VAT Voluntary Disclosure look like under e-commerce reporting?
+Answer: Your Voluntary Disclosure under e-commerce reporting will provide a pop-up window to allow you to amend your e-commerce supplies and other standard rated supplies by Emirate which were originally reported in your VAT return for the tax period for which you are submitting your Voluntary Disclosure.
+--------------------------------------------------
+Question: 46. If I discover that I incorrectly declared to the FTA that I am a "Qualifying Registrant" for e-commerce purposes, will I be able to amend this error?
+Answer: Yes. You will be able to notify the FTA of your incorrect "Qualifying Registrant" declaration for e-commerce purposes by way of submitting a Voluntary Disclosure. In your Voluntary Disclosure, you will be able to view the history of your previously submitted e-commerce declaration and edit your responses to the e-commerce declaration questionnaire.
+--------------------------------------------------
+Question: 47. If I submit a negative delta VD in which I amend my incorrect declaration as a "Qualifying Registrant" for e-commerce purposes, will my VAT returns be updated immediately to cater for e-commerce reporting?
+Answer: No. Your submitted negative delta Voluntary Disclosure in which you amended your "Qualifying Registrant" status for e-commerce purposes will have to be first approved by the FTA. Until the FTA approves your Voluntary Disclosure, you should continue submitting all your VAT returns in the same way you used to.
+--------------------------------------------------
+Question: 48. If I notified the FTA of being a "Qualifying Registrant" for e-commerce purposes and need to submit a Voluntary Disclosure for a tax period that is before 1 July 2023, will my Voluntary Disclosure cater for e-commerce reporting?
+Answer: No. If you already declared yourself as a “Qualifying Registrant” for e-commerce purposes and need to submit a Voluntary Disclosure for a tax period that is before 1 July 2023, your Voluntary Disclosure will be submitted based on the normal VAT return filing process and not based on e-commerce reporting.
+--------------------------------------------------
+Question: 49. If I submitted monthly tax returns for the tax periods 01 July 2023 – 31 July 2023, 01 August 2023 – 31 August 2023 and 01 September 2023 – 30 September 2023 and on 01 November 2023 I submitted a Voluntary Disclosure for the period 01 July 2023 – 31 July 2023 to inform the FTA that I have wrongly declared myself as a “Qualifying Registrant”, will I have to submit Voluntary Disclosures for the tax periods 01 August 2023 – 31 August 2023 and 01 September 2023 – 30 September 2023?
+Answer: Yes. In such a scenario, you should submit Voluntary Disclosures to correct all your VAT returns submitted after 01 July 2023 – 31 July 2023 based on normal VAT return reporting and not based on e-commerce reporting.
+--------------------------------------------------
+Question: 50. I am a representative member of a VAT Group and some of the members of my VAT group make e-commerce supplies. What is the threshold for the value of the Taxable Supplies made by the group members through an Electronic Commerce Medium?
+Answer: As per the reporting rules as defined under Article 72(4) of the VAT Executive Regulation, the threshold is one hundred million Dirhams per calendar year. You should keep track of the cumulative value of e-commerce supplies made by each of your group member entities and notify the FTA that you are a "Qualifying Registrant" for e-commerce purposes if you exceed the AED 100 million threshold of e-commerce supplies.
+--------------------------------------------------
+Question: 51. I am a representative member of a VAT Group. What happens if a "Qualifying Registrant" joins my VAT group?
+Answer: If a "Qualifying Registrant" for e-commerce purposes joins your VAT group, your VAT group will automatically become a "Qualifying Registrant". Your VAT group will have to file VAT returns under e-commerce reporting for the remainder of the e-commerce reporting period for the newly added "Qualifying Registrant" member.
+--------------------------------------------------
+Question: 52. I am a representative member of a VAT Group. My VAT group became a "Qualifying Registrant" for e-commerce purposes after the joining of a "Qualifying Registrant". If that "Qualifying Registrant" member exits the VAT group, will I have to continue submitting the VAT group's VAT returns under e-commerce reporting?
+Answer: Yes. The "Qualifying Registrant" status will remain with the VAT Group and for the identified “lock-in period” of e-commerce reporting of 18 months or 2 years, even where a VAT group member exits the Group and where that would bring the VAT Group’s cumulative e-commerce supplies below the AED 100 million threshold.
+--------------------------------------------------
+Question: 53. I am a member of a VAT group that is a "Qualifying Registrant" for e-commerce purposes. If I exit the group before the end of the e-commerce reporting period, will I have to continue submitting VAT returns under e-commerce reporting?
+Answer: Yes. If you are a member of a VAT group that is a "Qualifying Registrant" for e-commerce purposes and you exit the group before the end of the e-commerce reporting period, you will have to continue submitting your VAT returns as an individual registrant under e-commerce reporting for the remainder of the VAT group's identified e-commerce reporting period (i.e. 18 months or 2 years).
+--------------------------------------------------
+Question: 54. I am a representative member of a VAT group. If I am adding a new member to the VAT group, will EmaraTax notify me if that entity is a "Qualifying Registrant" for e-commerce purposes.
+Answer: Yes. While you are completing your VAT group amendment application for adding a new member to the  group, EmaraTax will notify you that the new member is a "Qualifying Registrant" for the e-commerce purposes.
+--------------------------------------------------
+Question: 55. How long does the FTA take to process my VAT Amendment Application?
+Answer: The FTA wil take within 20 Working days to review the application.
+--------------------------------------------------
+Question: 56. What are the criteria for applying for Corporate Tax registration?
+Answer: All taxable persons are required to register for UAE Corporate Tax and obtain a Corporate Tax Registration Number as per the UAE Corporate tax law and following implementing decisions. -The Federal Tax Authority may also request certain Exempt Persons to register for UAE CT. - UAE branches of domestic companies are an extension of their “parent” or “head office” and are not considered separate legal entities. Therefore, UAE branches of a domestic juridical person are not required to separately register or file for UAE CT. -  Please click on the link below  for FAQs https://tax.gov.ae/en/faq.aspx
+--------------------------------------------------
+Question: 57. What are the VAT registration requirements?
+Answer: UAE-resident businesses who make taxable supplies in the UAE must mandatorily register for VAT, provided the value of their taxable supplies and imports in the last 12 months exceeded, or is expected to exceed in the next 30 days, the mandatory registration threshold of AED375,000. UAE-resident businesses who make taxable supplies in the UAE may voluntarily register for VAT if the value of their taxable supplies and imports, or taxable expenses, incurred in the last 12 months exceeded, or is expected to exceed in the next 30 days, the voluntary registration threshold of AED 187,500 Non-UAE-resident businesses that make taxable supplies in the UAE must also mandatorily register for VAT, regardless of the value of its taxable supplies and imports, where there is no other person obligated to pay the due tax on these supplies in the UAE.
+--------------------------------------------------
+Question: 58. What is the process for submitting a VAT return?
+Answer: Filing and payment of VAT returns should happen by the 28th day of the month following the end of the VAT accounting period unless that day falls on a non-working day or public holiday. Details of the payment due date for the first VAT return will be shown on your VAT registration certificate. Subsequent due dates will be shown on the “Required actions” in your dashboard once you log on to the Emaratax portal.
+--------------------------------------------------
+Question: 59. How long does it take the FTA to process my deregistration application?
+Answer: The FTA wil take within 20 Working days to review the application.
+--------------------------------------------------
+Question: 60. How to apply for a tax residency certificate?
+Answer: •Access FTA’s EmaraTax portal: - Existing users who have an EmaraTax account can proceed with logging in using their EmaraTax login credentials. - New users who don’t have an account currently on EmaraTax will be required to create a new account. •After logging in, the Tax Residency Functionality can be accessed using the “Other Services” tab
+--------------------------------------------------
+Question: 61. How to link my TRN to new email?
+Answer: If you forget your Login Username (email ID) or you are no longer able to access your registered email, you need to make a new sign-up using a new email, and you can move your registered TRNs from your old Account by applying for (Link TRN to new email address) service on your new Dashboard from other services tab.
+--------------------------------------------------
+Question: 62. What is the status of my VAT payment?
+Answer: You can review your payment status from my payment tab after login to your emara tax portal.
+--------------------------------------------------
+Question: 63. How long does the FTA take to process my VAT Refund Application?
+Answer: The FTA wil take within 20 Working days to review the application.
+--------------------------------------------------
+Question: 64. How can I link custom code to TRN?
+Answer: You can use the VAT edit option, to edit and update your VAT registration data in case of any event or change of circumstances that does not require approval from FTA and the changes will be reflected immediately in their VAT registration post submission of the edit application like To edit your VAT Registration, click ‘Actions’ in the "Value Added Tax" title. Select ‘Edit’ to start editing your VAT registration.
+--------------------------------------------------
+Question: 65. How long does it take for the Federal Tax Authority to process my corporate tax registration application?
+Answer: The FTA will take within 20 Working days to review the application.
+--------------------------------------------------
+Question: 66. What are the criteria required to apply for Corporate Tax Registration?
+Answer: All taxable persons are required to register for UAE Corporate Tax and obtain a Corporate Tax Registration Number as per the UAE Corporate tax law and following implementing decisions. -The Federal Tax Authority may also request certain Exempt Persons to register for UAE CT. - UAE branches of domestic companies are an extension of their “parent” or “head office” and are not considered separate legal entities. Therefore, UAE branches of a domestic juridical person are not required to separately register or file for UAE CT. -  Please click on the link below  for FAQs https://tax.gov.ae/en/faq.aspx
+--------------------------------------------------
+Question: 67. How long does it take for the Federal Tax Authority to process my VAT amendment request?
+Answer: The FTA will take within 20 Working days to review the application.
+--------------------------------------------------
+Question: 68. What are the requirements for VAT registration?
+Answer: UAE-resident businesses who make taxable supplies in the UAE must mandatorily register for VAT, provided the value of their taxable supplies and imports in the last 12 months exceeded, or is expected to exceed in the next 30 days, the mandatory registration threshold of AED375,000. UAE-resident businesses who make taxable supplies in the UAE may voluntarily register for VAT if the value of their taxable supplies and imports, or taxable expenses, incurred in the last 12 months exceeded, or is expected to exceed in the next 30 days, the voluntary registration threshold of AED 187,500 Non-UAE-resident businesses that make taxable supplies in the UAE must also mandatorily register for VAT, regardless of the value of its taxable supplies and imports, where there is no other person obligated to pay the due tax on these supplies in the UAE.
+--------------------------------------------------
+Question: 69. How to apply for Amend taxable person Application?
+Answer: To amend the trade licenses, business activities, owners or branches details, please follow the below steps: Login to your EmaraTax account. Click on "View" under your taxable person profile . Click on “Taxable Person Details”. Click on “Amend
+--------------------------------------------------
+Question: 70. How long does it take for the Federal Tax Authority to process my deregistration request?
+Answer: The FTA will take within 20 Working days to review the application.
+--------------------------------------------------
+Question: 71. How long does it take for the Federal Tax Authority to process my Tax Residency Certificate application?
+Answer: The FTA will take within 5 Working days to review the application.
+--------------------------------------------------
+Question: 72. How to appeal against penalty imposed?
+Answer: Reconsideration request: It is a form that is submitted electronically to reconsider a decision issued by the Federal Tax Authority, knowing that Any person may submit a request to the Federal Tax Authority to reconsider any of its decisions issued in connection to him, in whole or in part, within (40) forty business days from him being notified of the decision.
+--------------------------------------------------
+Question: 73. What is the status of my VAT payment?
+Answer: You can review your payment status from my payment tab after login to your emara tax portal.
+--------------------------------------------------
+Question: 74. How to link my TRN to a new email?
+Answer: If you forget your Login Username (email ID) or you are no longer able to access your registered email, you need to make a new sign-up using a new email, and you can move your registered TRNs from your old Account by applying for (Link TRN to new email address) service on your new Dashboard from other services tab.
+--------------------------------------------------
+Question: 75. What is VAT?
+Answer: Value Added Tax (or VAT) is an indirect tax. Occasionally you might also see it referred to as a type of general consumption tax. In a country which has a VAT, it is imposed on most supplies of goods and services that are bought and sold. VAT is one of the most common types of consumption tax found around the world. Over 150 countries have implemented VAT (or its equivalent, Goods and Services Tax), including all 29 European Union members, Canada, New Zealand, Australia, Singapore and Malaysia. VAT is charged at each step of the ‘supply chain’. Ultimate consumers generally bear the VAT cost while businesses collect and account for the tax, in a way acting as a tax collector on behalf of the government. A business pays the government the tax that it collects from the customers while it may also receive a refund from the government on tax that it has paid to its suppliers. The net result is that tax receipts to government reflect the ‘value add’ throughout the supply chain.
+--------------------------------------------------
+Question: 76. What is a residential building for VAT purposes?
+Answer: A residential building is a building or part thereof that is intended and designed for occupation by individuals, and mainly includes buildings which can be occupied by any person as main place of residence. It does not include: Any place that is not a building fixed to the ground and can be moved without being damaged. Any building that is used as a hotel, motel, bed and breakfast establishment, or hospital or the like. A serviced apartment for which services in addition to the supply of accommodation are provided. Any building constructed or converted without lawful authority.
+--------------------------------------------------
+Question: 77. Since when was excise tax implemented in the UAE?
+Answer: Excise Tax came into effect on 1 October 2017 based on Federal Decree-Law No. (7) of 2017 on Excise Tax.
+--------------------------------------------------
+Question: 78. What is DTS?
+Answer: The DTS is a newly introduced compliance programme applicable to manufacturers and importers of tobacco and tobacco products. The DTS will deliver unique pack marks to allow product tracking and traceability from the point of manufacture through to final Emirate of distribution, and to support the enforcement activity targeting the reduction in illicit tobacco trading. For the time being, DTS will apply to cigarettes. The DTS Solution will require the manufacturers to apply specific high security control markers (stamps) and codes to all packs, with the principle aims of the DTS System being: To enhance the FTAs ability to control  excise taxes on cigarettes sold in the UAE, following importation or local manufacture. To enhance the control of Excise Tax collection and give the relevant Authorities the ability to analyze and audit the supply chain to better identify the trade in illicit tobacco products. To meet the compliance standards laid down by the WHO’s Framework Convention on Tobacco Control (FCTC) through the enabling of tracking and traceability of compliant tobacco products.
+--------------------------------------------------
+Question: 79. Who can or will be able to register for VAT?
+Answer: A business must register for VAT if its taxable supplies and imports exceed the mandatory registration threshold of AED 375,000. Furthermore, a business may choose to register for VAT voluntarily if its supplies and imports are less than the mandatory registration threshold, but exceed the voluntary registration threshold of AED 187,500. Similarly, a business may register voluntarily if its expenses exceed the voluntary registration threshold. This latter opportunity to register voluntarily is designed to enable start-up businesses with no turnover to register for VAT.
+--------------------------------------------------
+Question: 80. Will tourists also pay VAT?
+Answer: Purchase of goods and services by tourists in the UAE will be subject to VAT. However, tourists will be eligible to reclaim the VAT incurred on their purchase of goods under the Tax Refunds for Tourists Scheme subject too meeting certain conditions.
+--------------------------------------------------
+Question: 81. Can Tourist Refund Scheme claims be validated 24/7 at all locations?
+Answer: Validation will be available 24/7 and refund desks will be open at major airports 24/7.
+--------------------------------------------------
+Question: 82. Tax Refunds for Tourists Scheme: Can someone other than the tourist validate the Tax Free Tag and collect the refund?
+Answer: No. Only the owner of the passport/GCC ID under which the Tax Free Tag is registered is entitled to validate them and collect the refund.
+--------------------------------------------------
+Question: 83. Tax Refunds for Tourists Scheme: Can a resident who has cancelled his resident visa and is on the grace period for one month claim VAT on items purchased after the visa is cancelled?
+Answer: No.
+--------------------------------------------------
+Question: 84. Tax Refunds for Tourists Scheme: Does the tourist have to present Tax Free Tags at the time of refund when leaving the UAE?
+Answer: The invoice must be attached to the Tax Free Tag and presented at the airport as part of the refund process. If not, the tourist will not receive their tax free refund at the exit point. Invoice wallets will be handed to tourists at the stores to keep their Tax Free Tag purchases organised.
+--------------------------------------------------
+Question: 85. Tax Refunds for Tourists Scheme: Can I claim a refund if the payment is made by my friend or relative using cash or credit card?
+Answer: Yes, as long as the tourist exporting the goods is present during the purchase, and it is the exporter's information that is completed for the VAT refund.
+--------------------------------------------------
+Question: 86. Is a refund under the Tax Refunds for Tourists Scheme permissible on partially consumed goods? (Dates, chocolates, perfume)
+Answer: No.
+--------------------------------------------------
+Question: 87. Can one reclaim VAT if ordering on an e-commerce website? If yes, what will be the procedure?
+Answer: Yes, the invoice should be issued on the date the goods are collected in person by the tourist at a physical store, and the Tax Free Tag issued and attached to it on the same day. If the tourist pays online, the invoice must clearly state that it is an advance / deposit / booking fee and when collecting the goods the actual sales invoice is issued on the day. Otherwise it is not possible to purchase online and claim tax free refunds.
+--------------------------------------------------
+Question: 88. Tax Refunds for Tourists Scheme: What are the timings of the merchant support help line?
+Answer: The merchant support help line will be available 7 days a week from 10am to midnight (and 2am for holidays when extended store hours are in place). Emails can be sent at any time.
+--------------------------------------------------
+Question: 89. Tax Refunds for Tourists Scheme: Can restaurants register?
+Answer: Yes, if a restaurant sells goods that are eligible under this scheme, they can register.
+--------------------------------------------------
+Question: 90. Tax Refunds for Tourists Scheme: If the tourist does not have their passport details on them at the time of purchase, can the tax refund form be issued?
+Answer: No, as a minimum, the original or copy of the passport or GCC ID details are needed.
+--------------------------------------------------
+Question: 91. What is Tax?
+Answer: Tax is the means by which governments raise revenue to pay for public services. Government revenues from taxation are generally used to pay for things such public hospitals, schools and universities, defence and other important aspects of daily life. A direct tax is collected by a government from the person on whom it is imposed (e.g., income tax, corporate tax). An indirect tax is collected for a government by an intermediary (e.g. a retail store) from the person that ultimately pays the tax (e.g., VAT, Sales Tax).
+--------------------------------------------------
+Question: 92. What is a “Business” or “Business Activity”?
+Answer: The terms “Business” and “Business Activity” as defined in the Corporate Tax Law identify when the activities of certain persons give rise to a UAE CT liability by considering the person to be a taxable person. “Business” means any economic activity, whether continuous or short term, conducted by any person. It is implied that a business is conducted with a profit motive, and that there is the existence of some system and organisation to the activity conducted. However, a business or business activity for UAE CT purposes does not lose its identity simply because it does not make a profit. For the application of the Corporate Tax Law to companies and other juridical persons, all activities conducted and assets used or held will generally be considered activities conducted, and assets used or held, for the purposes of a “Business”. Individuals can earn income from wages and salaries, investments or from practising a commercial, industrial or professional activity, either directly or as sole proprietor of a business. For natural persons, a Cabinet Decision will be issued in due course specifying further information on what would bring a natural person within the scope of UAE CT.
+--------------------------------------------------
+Question: 93. Will the income of UAE branches of a UAE business be subject to UAE CT?
+Answer: Yes. The income of UAE branches will be included in the taxable income and UAE CT return of their UAE “parent” or “head office”.
+--------------------------------------------------
+Question: 94. Will transfer pricing rules apply to both domestic and cross border transactions?
+Answer: Yes. Transfer pricing rules apply to UAE businesses that have transactions with Related Parties and Connected Persons, irrespective of whether the Related Parties or Connected Persons are located in the UAE mainland, a Free Zone or in a foreign jurisdiction.
+--------------------------------------------------
+Question: 95. I am already registered for VAT purposes. Do I have to register for UAE CT?
+Answer: Yes. Taxpayers will be required to register for UAE CT (and update their details, if required), even if they are already registered for VAT.
+--------------------------------------------------
+Question: 96. Corporate Tax - Important notice:
+Answer: The information on this page is meant to provide guidance on the UAE Corporate Tax (CT) regime. The Federal Decree-Law No.47 of 2022 on the Taxation of Corporations and Businesses (Corporate Tax Law) can be found at: here . Nothing in these questions and answers should be interpreted as legal or tax advice, and it should not be assumed that the guidance is comprehensive or that it provides a definitive answer in every case. These questions and answers are not intended to address all aspects of the UAE CT regime and taxpayer specific circumstances should be considered when using these questions and answers for individual or business decisions. These questions and answers are subject to change without notice. Further information and guidance on the technical details and other specifics of the UAE CT regime will be made available in due course.
+--------------------------------------------------
+Question: 97. How can I download a soft copy of my tax registration / deregistration certificate from EmaraTax?
+Answer: In EmaraTax, the registration certificates can be found in the "My Correspondences" section of your Taxable Person account.  All your registration certificates that were available in your eServices account have been migrated to your EmaraTax account. Note that if your tax registration certificate was not available as a pdf document in your dashboard in the old system, then you will not be able to find it in your EmaraTax dashboard. Therefore, in order for you to receive an updated registration certificate, you will have to submit a registration amendment application through EmaraTax with your updated information (example: trade license, Emirates ID, Contact details, etc) to the FTA. Once the application is approved by the FTA, your registration certificate will be issued.
+--------------------------------------------------
+Question: 98. What is a commercial building for VAT purposes?
+Answer: A commercial building is any building or part thereof that is not a residential building. Examples would be offices, warehouses, hotels, shops, etc.
+--------------------------------------------------
+Question: 99. Which goods are subject to excise tax in the UAE?
+Answer: The following goods are subject to excise tax in the UAE at the following rates of tax: Carbonated drinks – 50% Energy drinks – 100% Tobacco – 100%
+--------------------------------------------------
+Question: 100. Why Is the UAE implementing a digital tax stamp (DTS) scheme?
+Answer: To support the Excise tax initiative for the tobacco products, a Digital Tax Stamp (DTS) control solution is being introduced, the purpose of which is to enable the FTA to raise compliance standards for tobacco products produced or imported into the UAE, focus enforcement activity on the illicit trade market, and also ensure that the income generated from the legal and compliant manufacture or importation is successfully distributed to the appropriate Emirate.
+--------------------------------------------------
+Question: 101. What are the VAT-related responsibilities of businesses?
+Answer: VAT-registered businesses generally: must charge VAT on taxable goods or services they supply; may reclaim any VAT they have paid on business-related goods or services; keep a range of VAT related business records (e.g. Tax invoices); report their taxable supplies and purchases in periodic VAT retur
+--------------------------------------------------
+Question: 102. Is there a special refund for business visitors?
+Answer: Yes. Further details are available in the VAT refund for business visitors user guide.
+--------------------------------------------------
+Question: 103. Who will provide the refund under the Tourist Refund Scheme at the airport?
+Answer: You can find a list of cash refund points on planetpayment.ae. Planet will process credit or debit card refunds.
+--------------------------------------------------
+Question: 104. Tax Refunds for Tourists Scheme: Do goods have to be exported in original packaging?
+Answer: No, but goods and original packaging will have to be available for inspection to confirm that the goods are newly purchased.
+--------------------------------------------------
+Question: 105. Who is eligible?
+Answer: Overseas Tourists are eligible for this type of refund. In the law, a tourist is defined as any natural person who is not resident in any of the Implementing States and who is not a crew member on a flight or aircraft leaving an Implementing State. Please note that currently, all GCC countries are considered as Non-Implementing States of the GCC VAT Treaty and therefore visitors from the other GCC states will be able to claim VAT refunds on their UAE shopping. This is subject to change in the future. Please note the tourist should be 18 years old or over to be eligible to claim a refund.
+--------------------------------------------------
+Question: 106. What happens if the tourist claims their VAT refund and a relative then tries to refund or exchange the goods?
+Answer: The person requesting the refund must be the person whose name and passport number is recorded in the Tax Free Tag transaction. The return of goods is allowed before the Tax Free Tag has been validated at the point of exit (the merchant will have to void the Tax Free Tag following Planet's procedures). Returns are not allowed after the tourist has validated the Tax Free Tag at the point of exit from the UAE.
+--------------------------------------------------
+Question: 107. Tax Refunds for Tourists Scheme: Can one claim the refund before getting to the point of exit from UAE?
+Answer: No.
+--------------------------------------------------
+Question: 108. Is a refund under the Tax Refunds for Tourists Scheme permissible on partially used goods? For example, I start using my iPhone or have used perfume.
+Answer: Yes (e.g. smartphones) as long as they are accompanied by the original packaging when validating their export at the exit point. A perfume that has been opened however is not eligible for a refund.
+--------------------------------------------------
+Question: 109. Tax Refunds for Tourists Scheme: If the tourist has purchased goods and lost the invoice, can they come back to the merchant to issue a new Tax Free Tag?
+Answer: No, as the purchase invoice is required (the Tax Free Tag is attached to the purchase invoice).
+--------------------------------------------------
+Question: 110. What other taxes are the UAE considering?
+Answer: As per global best practice, the UAE is exploring other tax options as well. However, these are still being analysed and it is unlikely that they will be introduced in the near future. The UAE is not currently considering personal income taxes, however.
+--------------------------------------------------
+Question: 111. What is CT?
+Answer: CT is a form of direct tax levied on the net income or profit of corporations and other businesses. CT is sometimes also referred to as “Corporate Income Tax” or “Business Profits Tax” in other jurisdictions.
+--------------------------------------------------
+Question: 112. Will UAE branches of foreign businesses be subject to UAE CT?
+Answer: Where no election is made or the income of the foreign branch or permanent establishment is not eligible for an exemption from CT, the UAE CT payable on the income of the foreign branch or permanent establishment can be reduced by the corporate tax (or similar) paid on the relevant income in the foreign jurisdiction.
+--------------------------------------------------
+Question: 113. How can I sign up in EmaraTax if the OTP expires?
+Answer: Your OTP is valid for 5 minutes. If your OTP expires, you can request for a new OTP. Note that for security purposes, you are limited to only two new OTP requests. You will have to initiate the signup process again if you have exhausted all your OTP requests.
+--------------------------------------------------
+Question: 114. What is a supply in relation to real estate?
+Answer: A supply of real estate may include the sale, lease or giving the right in any real estate.
+--------------------------------------------------
+Question: 115. What value does excise tax apply to?
+Answer: Excise Tax is calculated based on the excise price. The excise price is the higher of the price published by the FTA in a standard price list if available and the designated retail sales price for the excise good less the tax included therein.
+--------------------------------------------------
+Question: 116. What products will fall under the DTS?
+Answer: The scheme will initially focus on cigarettes from 2019, and will extend in time to include all tobacco-based products. Communication of the timelines for non-cigarette based tobacco products will follow in the future. Information relating to any further products and categories to be added to the scheme will be communicated  in the future.
+--------------------------------------------------
+Question: 117. What does a business need to do to prepare for VAT?
+Answer: Businesses will need to meet certain requirements to fulfil their tax obligations. To fully comply with VAT, businesses will need to consider the VAT impact on their core operations, financial management and book-keeping, technology, and perhaps even their human resource mix (e.g., accountants and tax advisors). It is essential that businesses try to understand the implications of VAT and make every effort to align their business model to government reporting and compliance requirements.
+--------------------------------------------------
+Question: 118. How can someone access UAE Tax legislation?
+Answer: All Federal Tax Laws, Executive Regulations and Cabinet Decisions are published under the “Legislation” section on the FTA website.
+--------------------------------------------------
+Question: 119. Tax Refunds for Tourists Scheme: Does a tourist require the physical Tax Free Tag or can he save the image of the Tax Free Tag and invoice on the mobile phone?
+Answer: The physical Tax Free Tag must be attached to the invoice at the point of exit (validation).
+--------------------------------------------------
+Question: 120. Tax Refunds for Tourists Scheme: What happens when a tourist buys goods in the UAE and returns the goods in participating stores in the UAE or abroad (if allowed by the merchant)?
+Answer: Returns are allowed before the Tax Free Tag has been validated at the point of exit (the merchant will have to void the Tax Free Tag following Planet's procedures). Returns are not allowed after the tourist has validated the Tax Free Tag at the point of exit from the UAE.
+--------------------------------------------------
+Question: 121. Tax Refunds for Tourists Scheme: If the refund is above AED 10,000, can the tourist claim a cash refund at the airport?
+Answer: The tourist can get a refund in cash up to AED 10,000, for all the Tax Free Tags that add up to that amount (or less). Once they pass that amount, the remaining tags must be refunded by credit or debit card only.
+--------------------------------------------------
+Question: 122.  Tax Refunds for Tourists Scheme: What happens if 5 boxes are on the Tax Free Tag, one box is consumed and 4 other boxes are exported?
+Answer: The refund may only be claimed on the 4 boxes that are being exported.
+--------------------------------------------------
+Question: 123. Tax Refunds for Tourists Scheme: Is it necessary to issue a Tax Free Tag for a tourist to get a refund?
+Answer: Yes, a Tax Free Tag must be attached to each invoice to obtain a tax refund.
+--------------------------------------------------
+Question: 124. Will the introduction of taxes impact economic growth of the UAE?
+Answer: Our analysis suggests that it will help the country strengthen its economy by diversifying revenues away from oil and will allow us to fund many public services. This is a sign of a maturing economy.
+--------------------------------------------------
+Question: 125. Why is the UAE introducing CT?
+Answer: A competitive CT regime based on international best practices is expected to cement the UAE’s position as a leading global hub for business and investment and accelerate the UAE’s development and transformation to achieve its strategic objectives. Introducing a CT regime also reaffirms the UAE’s commitment to meeting international standards for tax transparency and preventing harmful tax practices.
+--------------------------------------------------
+Question: 126. Is it possible to make a GIBAN payment without logging into EmaraTax or without generating a payment reference number?
+Answer: For all GIBAN payments made using any UAE based financial institution including online banking portals, exchange houses or bank tellers, you must first log into EmaraTax, pre-select the liabilities you wish to make a payment for and generate a unique payment reference number. This payment reference number and the exact amount must be quoted along with your GIBAN when making your payment, otherwise your payment will not be accepted.
+--------------------------------------------------
+Question: 127. Is a residential building subject to VAT?
+Answer: The first supply of a new residential building within the first three years of it being constructed is zero-rated. All subsequent supplies are exempt, even if within the first three years.
+--------------------------------------------------
+Question: 128. Who is required to register for Excise Tax and what are the associated compliance obligations?
+Answer: The following groups are required to register for excise tax: Producers of excise goods. Importers of excise goods. Stockpilers of excise goods. Warehouse keepers supervising designated zones for Excise Tax purposes (where applicable). Businesses that are required to pay excise tax should do the following: Register with the FTA; Submit excise tax returns on a monthly basis; and Pay the excise tax due on the same date as submitting a tax return.
+--------------------------------------------------
+Question: 129. Who will be required to register for DTS?
+Answer: Manufacturers - Any UAE-based or Overseas/International Cigarette Manufacturer that sells its products via importation into the UAE for EITHER domestic sales or sales via UAE Duty free outlets (airports and ports). Importers – ANY officially licensed IMPORTER of RECORD who purchases Cigarettes in bulk from domestic or international manufacturers and undertakes to on-sell and distribute within the UAE mainland or UAE Duty Free markets. Distributors / Supply Chain Agents/ Warehouse keepers – ANY official distributor that will be the recipient of formally imported goods for sales in domestic market or sales via UAE Duty free outlets (airports and ports).
+--------------------------------------------------
+Question: 130. When are businesses supposed to start registering for VAT?
+Answer: A Person required to register for VAT needs to submit a registration application to the FTA within 30 days of being required to register. Registration applications shall be submitted via the e-Services Portal on the FTA website www.tax.gov.ae
+--------------------------------------------------
+Question: 131. What other taxes is the UAE considering?
+Answer: As per global best practice, the UAE is exploring other tax options as well. However, these are still being analysed and it is unlikely that they will be introduced in the near future. The UAE is not currently considering personal income taxes, however.
+--------------------------------------------------
+Question: 132. Tax Refunds for Tourist Scheme: What does a tourist need to do to have the refund paid to the credit or debit card?
+Answer: During validation the tourist will be asked to enter their card details. Refunds can be made to Visa, MasterCard, Amex and Union Pay.
+--------------------------------------------------
+Question: 133. Tax Refunds for Tourists Scheme: How many days will it take for a credit card refund?
+Answer: Card refunds are typically processed by Planet within 10 days, excluding the bank's or credit card company's own processing times.
+--------------------------------------------------
+Question: 134. Tax Refunds for Tourists Scheme: Is the tourist expected to have the original passport?
+Answer: The preference (for better customer & merchant experience) is that the tourist presents their original passport / GCC ID at point of purchase. However, a clear copy would suffice of the passport / GCC ID number and tourist details. For validation at the point of exit, the original passport or GCC ID must be presented.
+--------------------------------------------------
+Question: 135. Where can I learn more about the UAE VAT?
+Answer: The FTA website includes guides, public clarifications and other references that aim at assisting persons with a better understanding of UAE tax legislation. A telephone hotline has been set up so that you can call and speak to one of our employees directly on 600599994.
+--------------------------------------------------
+Question: 136. Who is a Natural Person?
+Answer: The term “Natural Person” in the Corporate Tax Law means an individual.
+--------------------------------------------------
+Question: 137. Why can’t I make payments via eDirham?
+Answer: The eDirham payment gateway was decommissioned on 30 October 2022. MagnatiPay is our new payment gateway. It accepts payments made using any Visa or Mastercard prepaid, debit or credit card. Please contact your issuing bank to redeem any remaining eDirham balances.
+--------------------------------------------------
+Question: 138. Is commercial real estate subject to VAT?
+Answer: All supplies of commercial properties are subject to VAT at 5%, and this includes all buildings or parts thereof that are not residential buildings.
+--------------------------------------------------
+Question: 139. What is a stockpiler?
+Answer: A stockpiler is a person that owns excise goods and cannot prove that excise tax has previously been paid on those goods.
+--------------------------------------------------
+Question: 140. When will the scheme go live? And what are the key milestones?
+Answer: 1st Jan 2019 Importers and UAE-based Manufacturers will be able to order stamps to be sent to the Manufacturers for application to the pack of cigarette products. 1 May 2019. No cigarette products without a digital tax stamp will be permitted to be imported into the UAE. 1st August 2019 No cigarettes will be allowed to be held out for sale, imported or produced anywhere in the UAE unless they carry a Digital Tax Stamp. All cigarettes produced or imported into the UAE after this date must have a Digital Tax Stamp with end-to-end traceability. All cigarettes manufactured or legitimately imported with a digital tax stamp (without end-to-end traceability) between May 1st and August 1st may remain in market beyond this date. Timelines for other tobacco products to be added to the scheme will be communicated in due course.
+--------------------------------------------------
+Question: 141. When are registered businesses required to file VAT returns?
+Answer: Taxable Persons must file VAT returns with the FTA on a regular basis, within 28 days of the end of the Tax Period. The Tax returns shall be filed online using e-Services.
+--------------------------------------------------
+Question: 142. Tax Refunds for Tourists Scheme: How can the tourist collect their refund?
+Answer: The tourist can have the refund paid to their credit or debit card or where available collect the refund in cash from a Planet cash refund agent. A tourist may also be able to claim the refund via e-vouchers at exit points where cash is not available. When validating a Tax Free Tag the tourist will choose their preferred refund method. A list of cash refund points can be found on the Planet website.
+--------------------------------------------------
+Question: 143. Tax Refunds for Tourists Scheme: Is a cash refund available on both the airside and landside at airports?
+Answer: Where available, a cash refund will only be given at the airside.
+--------------------------------------------------
+Question: 144. Tax Refunds for Tourists Scheme: Is there any refund for services i.e. watch repair etc.? What if a part has to be purchased for repair?
+Answer: No.
+--------------------------------------------------
+Question: 145. Changing my business systems for VAT reporting will cost money. Can the government help?
+Answer: The FTA provides information and education to businesses to help them with their tax implementation. The government will not pay for businesses to buy new technologies or hire tax specialists and accountants. That is the responsibility of each business.
+--------------------------------------------------
+Question: 146. Is the UAE the first country to introduce CT?
+Answer: Most countries in the world have a comprehensive CT regime, including most of the countries in the Middle East.
+--------------------------------------------------
+Question: 147. Can I still make payments using edirham or credit cards?
+Answer: We no longer accept eDirham as a payment method. MagnatiPay is our new payment gateway. MagnatiPay accepts payments made using any Visa or Mastercard prepaid, debit or credit card. Please contact your issuing bank to redeem any remaining eDirham balances
+--------------------------------------------------
+Question: 148. What is the difference between VAT and Sales Tax?
+Answer: A sales tax is also a consumption tax, just like VAT. For the general public there may be no observable difference between how the two types of taxes work, but there are some key differences. In many countries, sales taxes are only imposed on transactions involving goods. In addition, sales tax is only imposed on the final sale to the consumer. This contrasts with VAT which is imposed on goods and services and is charged throughout the supply chain, including on the final sale. VAT is also imposed on imports of goods and services so as to ensure that a level playing field is maintained for domestic providers of those same goods and services. Many countries prefer a VAT over sales taxes for a range of reasons. Importantly, VAT is considered a more sophisticated approach to taxation as it makes businesses serve as tax collectors on behalf of the government and cuts down on misreporting and tax evasion.
+--------------------------------------------------
+Question: 149. Does the owner of real estate have to register for VAT?
+Answer: The owners of residential buildings who only make exempt supplies do not have to register for VAT if they do not have any taxable business activities. Where owners have taxable business activities, they should consider their obligations further. The owner of any building that is not residential, will have to register if the value of the supplies over the preceding 12 months exceeds AED 375,000 or it is expected that they will exceed AED 375,000 over the coming 30 days.
+--------------------------------------------------
+Question: 150. When is Excise Tax due?
+Answer: Excise Tax is due when goods are ‘released for consumption’ i.e. when they enter free circulation in the UAE. Excise tax is due when: Excise goods are imported into the UAE; Excise goods are released for consumption in the UAE (e.g. manufactured and released from a designated zone/excise warehouse etc); or Excise goods are acquired by a stockpiler, where tax has not previously been paid on these goods. Excise tax is not a transaction-based tax, which means that goods do not need to be sold in order for the tax to be due.
+--------------------------------------------------
+Question: 151. What Global legislation and standards are behind the DTS scheme?
+Answer: Tobacco companies are already used to applying track and trace technology for their products. The solution we are applying in the UAE Is compliant with the Global standard for tobacco supply and distribution – the United Nations World Health Organisation’s Framework Convention on Tobacco Control (FCTC) protocol. Is delivered in partnership with De La Rue, the world’s leading anti-counterfeit company. The stamp itself contains world leading anti-counterfeit secure features – both visible and invisible.
+--------------------------------------------------
+Question: 152. What kind of records are businesses required to maintain, and for how long?
+Answer: Businesses are required to keep records which will enable the Federal Tax Authority to identify the details of the business activities and review transactions. The documents which are required and the time period for keeping them are prescribed in Federal Law no. (7) of 2017 on Federal Tax procedures and the Cabinet Decision No. (36) of 2017 on the Executive Regulation of the Federal Law No. (7) of 2017 on Tax Procedures.
+--------------------------------------------------
+Question: 153. Tax Refunds for Tourists Scheme: How can the tourist track their refund?
+Answer: The tourist can track their refund by scanning the QR code on the Tax Free Tag using their smartphone, and this will take them to a unique website link that will show the refund status.
+--------------------------------------------------
+Question: 154. Tax Refunds for Tourists Scheme: Is there any additional cost to get a refund on a credit card by Planet or my bank?
+Answer: There would be a standard currency exchange rate that would be applied to convert funds into the cardholder's currency (where currency is not AED).
+--------------------------------------------------
+Question: 155. Tax Refunds for Tourists Scheme: What goods are eligible?
+Answer: All taxable goods are eligible except for: Goods that have been consumed, in full or in part, in the UAE; Goods that are not accompanied by the overseas tourist at the time of leaving the UAE; Motor vehicles, boats and aircraft.
+--------------------------------------------------
+Question: 156. What are the penalties for not complying with a business’s VAT obligations?
+Answer: Everyone is urged to fully comply with their VAT obligations. Administrative penalties for violations have been issued by Cabinet Decision No. (40) of 2017 and can be found under the Legislation section on the FTA website.
+--------------------------------------------------
+Question: 157. When will the UAE CT regime become effective?
+Answer: The UAE CT regime will become effective for financial years starting on or after 1 June 2023. Examples: ●	A business that has a financial year starting on 1 July 2023 and ending on 30 June 2024 will become subject to UAE CT from 1 July 2023 (which is the beginning of the first financial year that starts on or after 1 June 2023) ●	A business that has a financial year starting on 1 January 2023 and ending on 31 December 2023 will become subject to UAE CT from 1 January 2024 (which is the beginning of the first financial year that starts on or after 1 June 2023)
+--------------------------------------------------
+Question: 158. What is the transaction limit on MagnatiPay?
+Answer: The transaction limit is AED 1 million including the charges levied by the MagnatiPay payment gateway.
+--------------------------------------------------
+Question: 159. Can a real estate owner recover VAT paid in relation to real estate?
+Answer: An owner of a residential building is not able to recover VAT in respect of expenses related to the exempt supply of the residential building. An owner of a commercial building is generally able to recover VAT in respect of expenses related to the supply of the commercial building.
+--------------------------------------------------
+Question: 160. What is a designated zone for Excise Tax purposes?
+Answer: A designated zone is the term used in the UAE to describe a specified area that is considered outside the UAE for excise tax purposes. For an area to be treated as a designated zone, it must be officially registered and approved by the FTA and a warehouse keeper must be appointed as responsible over the designated zone. A designated zone should be a fenced area intended to be a free zone that cannot be entered or exited except through a designated road and any area designated by the FTA as being subject to the supervision of a warehouse keeper.
+--------------------------------------------------
+Question: 161. What actions will be taken against importers, manufacturers and distributors who fail to comply with the scheme
+Answer: We expect all cigarettes in the UAE to carry a tax stamp. There will be penalties for non-compliance with the scheme.
+--------------------------------------------------
+Question: 162. How long must a taxable person retain VAT invoices for?
+Answer: Any taxable person must retain VAT invoices issued and received for a minimum of 5 years.
+--------------------------------------------------
+Question: 163. Tax Refunds for Tourist Scheme: How does the tourist know which shops offer Tax Free shopping?
+Answer: Look for stores displaying the Planet Tax Free and FTA logo, or ask in store.
+--------------------------------------------------
+Question: 164. Tax Refunds for Tourist Scheme: Is there any charge for a refund in cash?
+Answer: There is no charge for a refund in cash. However, if a tourist wishes to exchange the refund from AED into another currency, the Cash Refund Agent's advertised exchange rates would be applied.
+--------------------------------------------------
+Question: 165. Tax Refunds for Tourist Scheme: What if the tourist purchases the goods and then asks for the purchase to be added to an existing Tax Free Tag? What if he asks on the following day?
+Answer: The tourist can consolidate up to 8 receipts on the same day of purchase from the same store group.
+--------------------------------------------------
+Question: 166. Are UAE branches separate juridical persons?
+Answer: No. UAE branches of a domestic or a foreign juridical person are an extension of their “parent” or “head office” and, therefore, are not considered separate juridical persons.
+--------------------------------------------------
+Question: 167. When EmaraTax goes live, is there a change in how I make a GIBAN payment?
+Answer: Yes. You must first pre-select within the system the liabilities that you want to pay and then generate a unique payment reference number for them. The GIBAN, the unique payment reference number and the exact payment amount (linked to that specific reference number) should all be quoted when making your payment. If you are making payment using a UAE based bank/financial institution, and do not include the information listed above, then your payment will not be accepted. If you are making a payment using an overseas bank/financial institution and do not include this information, this could result in the incorrect allocation of your payment.
+--------------------------------------------------
+Question: 168. Which areas can be registered as a designated zone for Excise Tax purposes?
+Answer: A designated zone should be a fenced area intended to be a free zone that cannot be entered or exited except through a designated road and any area designated by the FTA as being subject to the supervision of a warehouse keeper.
+--------------------------------------------------
+Question: 169. How will the scheme actually work in practice?
+Answer: The FTA will licence all manufacturers, importers and distributors to trade in the UAE. With this licence in place, the importers/ local manufacturers will be able to order tax stamps. Unique tax stamps will be allocated and despatched to the manufacturers, with each stamp having a digital ‘twin’ (a unique code) with the stamp, and the coding being applied on-line to individual packs during the cigarette manufacturing process. Manufacturers will submit the details of stamps and codes used to the central database and retain this information for reporting usage and intended export shipment data to the FTA. The FTA will be informed when batches have cleared customs. Law enforcement will check throughout the supply chain that the tax stamps are in use
+--------------------------------------------------
+Question: 170. How should a business determine the place of supply?
+Answer: The place of supply will determine whether a supply is made within the UAE (in which case the UAE VAT legislation will apply), or outside the UAE for VAT purposes. For a supply of goods, the place of supply should be the location of goods when the supply takes place with special rules for certain categories of supplies (e.g. water and energy, cross border supplies). For the supply of services, the place of supply should generally be where the supplier is established with special rules for certain categories of supplies (e.g. for the supply of catering services, the place of supply shall be where the services are actually performed).
+--------------------------------------------------
+Question: 171. Tax Refunds for Tourists Scheme: How early can the tourist get their Tax Free Tag validated at the airport or port?
+Answer: The validation point will begin accepting Tax Free Tags from 6 hours before the tourist's scheduled departure time.
+--------------------------------------------------
+Question: 172. Tax Refunds for Tourists Scheme: What happens if there is no cash refund counter at the border point?
+Answer: The refund will be made by credit card, debit card or e-voucher where applicable.
+--------------------------------------------------
+Question: 173. How is a mixed-use building (residential and commercial) treated for VAT?
+Answer: The rent or sale of a residential part of the building shall be treated as zero-rated or exempt, depending on whether this is a first supply or a subsequent supply. The rent or sale of a commercial part of the building shall be treated as subject to VAT at 5%. The tax incurred by the owner on the building needs to be apportioned where there is an exempt supply, and the portion related to the taxable supply (at 0% and 5%) may be recovered.
+--------------------------------------------------
+Question: 174. Who will be subject to UAE CT?
+Answer: UAE CT applies to juridical persons incorporated in the UAE and juridical persons effectively managed and controlled in the UAE, as well as to foreign juridical persons that have a permanent establishment (see section Foreign persons) in the UAE (see question ‘Who is considered resident for UAE CT purposes?’ under section Scope and rate). Individuals will be subject to CT only if they are engaged in a business or business activity in the UAE, either directly or through an unincorporated partnership or sole proprietorship. A Cabinet Decision will be issued in due course specifying further information on what would bring a natural person within the scope of UAE CT.
+--------------------------------------------------
+Question: 175. How can I generate a payment reference number for GIBAN payments?
+Answer: Whenever you wish to make a payment via GIBAN, you must first select the liabilities in EmaraTax that you wish to make a payment for and select the payment method as GIBAN. EmaraTax will then generate a unique payment reference number for you to use when making payment.
+--------------------------------------------------
+Question: 176. Will VAT be charged on the property I am renting?
+Answer: The rent of a residential building will generally be exempt from VAT. The rent of a commercial building will be subject to VAT at 5%
+--------------------------------------------------
+Question: 177. Are refunds of Excise Tax available?
+Answer: Unlike VAT, excise tax is paid once in the supply chain and businesses that have purchased excise goods cannot obtain a refund of the excise tax paid on those goods. There are a limited number of cases where a refund of excise tax will be available. Those cases are: When excise tax has been paid on an excise good, which is then produced in to a ‘new’ excise good, on which excise tax is again due; When excise tax has been paid on an excise good that is then exported outside the UAE; or When amounts have been paid to the FTA in error. In the above cases, a business registered for excise tax will be entitled to a refund of the excise tax paid. The refund will be granted by allowing a deduction of the refundable amount from the tax due in the next excise tax return period. There are also a limited number of cases where refunds will be available to people who are not registered for excise tax. Those cases are: Where excise tax has been paid by certain international governments, diplomatic missions and international organisations in the course of their official activities, where a reciprocal agreement is in place between the UAE and the entity’s home country; and Where excise tax has been paid in the UAE by a person who is registered for excise tax in another GCC country that is implementing excise tax and who has then exported the excise goods out of the UAE and paid excise tax in that other GCC country. A refund request form will be available on the FTA website that can be used to request refunds.
+--------------------------------------------------
+Question: 178. When will affected businesses be able to register for DTS/Where can I find registration forms?
+Answer: In order to register for DTS, excise registered businesses need to complete a form (visit URL) and send it to the customer care team mailbox to ask for access( ftadtscustomercare@delarue.com ). The Customer Care team will then process the request and provide the importer/manufacturer with relevant and tailored access to the Certify system.  The DTS system for ordering Tax Stamps will go live on 1st Jan 2019.
+--------------------------------------------------
+Question: 179. Can businesses offset customs duty against VAT payments?
+Answer: No. VAT is payable in addition to applicable customs duties. VAT is computed on the value that includes the customs duties.
+--------------------------------------------------
+Question: 180. Tax Refunds for Tourist Scheme: How much does a tourist have to spend to qualify for Tax Free shopping?
+Answer: The minimum purchase amount is AED 250 per Tax Free Tag. This can be made up of more than one purchase within the same store group on the same day.
+--------------------------------------------------
+Question: 181. Tax Refunds for Tourists Scheme: Who does the tourist need to contact if there is a delay in the refund?
+Answer: Tourists are advised to track their refund by scanning the QR code on the Tax Free Tag using a smartphone, and that will take them to a unique tracking page to see further details. If further assistance is required, the tourist can contact the Planet Customer Services team.
+--------------------------------------------------
+Question: 182. Will UAE entities owned by UAE or GCC nationals be subject to UAE CT?
+Answer: Yes – the UAE CT does not differentiate between nationality or residence. Juridical persons that are incorporated or resident in the UAE, or that have a permanent establishment in the UAE, will be subject to UAE CT. This applies irrespective of the residence and nationality of the individual founders or (ultimate) owners of the entity.
+--------------------------------------------------
+Question: 183. Is it mandatory to generate a payment reference number from EmaraTax?
+Answer: Whenever you wish to make a payment via GIBAN, you must first select the liabilities in EmaraTax that you wish to make a payment for and select the payment method as GIBAN. EmaraTax will then generate a unique payment reference number for you to use when making payment. The GIBAN, the unique payment reference number and the exact payment amount (linked to that specific reference number) should all be quoted when making payments via a bank or other financial institution. If you are making payment using a UAE based bank/financial institution, and do not include the information listed above, then your payment will not be accepted. If you are making a payment using an overseas bank/financial institution and do not include this information, this could result in the incorrect allocation of your payment.
+--------------------------------------------------
+Question: 184. Why is the UAE implementing VAT?
+Answer: The UAE Federal and Emirate governments provide citizens and residents with many different public services – including hospitals, roads, public schools, parks, waste control, and police services. These services are paid for from the government budgets. VAT will provide the UAE with a new source of income which will contribute to the continued provision of high quality public services into the future. It will also help government move towards its vision of reducing dependence on oil and other hydrocarbons as a source of revenue.
+--------------------------------------------------
+Question: 185. Is Excise Tax payable by travellers entering the UAE
+Answer: Travellers entering the UAE with excise goods for non-business purposes will not be required to register as an importer of excise goods. Travellers may need to pay the excise tax due on the goods depending on the value of the goods being imported. Where the value of the goods is below the threshold for exemption from Customs Duty as per the Customs Laws, no excise tax is due. Where the value of excise goods exceeds the value of the exemption for Customs Duty purposes, then excise tax will be due on the total value of the goods. Physical payment of excise tax will be required before or at the time of import. Further details on the obligations of travellers or non-registered persons bringing excise goods into the UAE can be found in the Excise Tax Importers User Guide available on the FTA's website.
+--------------------------------------------------
+Question: 186. What is the process of ordering the stamp?
+Answer: Stamps will be ordered in the DTS system via a simple login and order management process which will be menu driven. When placed an order will be ratified by the FTA to ensure its veracity and completeness, and this will then trigger direct engagement with the intended recipient of the stamps (the Manufacturer). For an importer to create an order, they need to: Log on to the DLR Certify System. Enter their User Name and Password. Go to the ‘Manage Orders’ Section where they will be able to record key information relating to the order, including the market the order is for (for UAE or Duty Free, the product type (cigarettes initially) and the Product Code. A step by step training manual will be shared in the training session. For any further questions, please contact the Customer Care team at ftadtscustomercare@delarue.com.
+--------------------------------------------------
+Question: 187. How will real estate be treated?
+Answer: The VAT treatment of real estate will depend on whether it is a commercial or residential property. Supplies (including sales or leases) of commercial properties will be taxable at the standard VAT rate (i.e 5%). On the other hand, supplies of residential properties will generally be exempt from VAT. This will ensure that VAT would not constitute an irrecoverable cost to persons who buy their own properties. In order to ensure that real estate developers can recover VAT on construction of residential properties, the first supply of residential properties (through sale or lease) within 3 years from their completion will be zero-rated.
+--------------------------------------------------
+Question: 188. Tax Refunds for Tourists Scheme: How much is the refund?
+Answer: The refund is 85% of the VAT minus 4.80 AED per Tax Free Tag.
+--------------------------------------------------
+Question: 189. Will foreign companies and other juridical persons be subject to UAE CT?
+Answer: Foreign entities that operate in the UAE through a permanent establishment or that are considered resident in the UAE for CT purposes will be subject to UAE CT. Merely earning UAE sourced income would not trigger CT payable or require the foreign entity to register and file for UAE CT.
+--------------------------------------------------
+Question: 190. What if I want to pay a different amount than what the payment reference number was generated for?
+Answer: Each unique payment reference number is generated against the specific GIBAN and amount payable. It is not possible to make a payment that is different to the amount for which the unique payment reference number was generated. If you need to pay a different amount you will need to cancel the existing unique payment reference number in EmaraTax and generate a new one. This can be done using the Allocations Pending Payment screen on EmaraTax.
+--------------------------------------------------
+Question: 191. Will there be bad debt relief for excise goods?
+Answer: Excise is not a transaction based tax so no relief will be available for suppliers that have sold excise goods to a customer and have not received payment from that customer. Excise tax is due based on the date the goods are released for consumption (i.e. enter free circulation) in the UAE, regardless of whether they are subject to an onward sale.
+--------------------------------------------------
+Question: 192. What is the validity period for the stamps?
+Answer: The validity period for stamps as decreed in the legislation is 12 months.
+--------------------------------------------------
+Question: 193. What sectors will be zero rated?
+Answer: VAT will be charged at 0% in respect of the following main categories of supplies: Exports of goods and services to outside the GCC; International transportation, and related supplies; Supplies of certain sea, air and land means of transport (such as aircraft and ships); Certain investment grade precious metals (e.g. gold, silver, of 99% purity); Newly constructed residential properties, that are supplied for the first time within 3 years of their construction; Supply of certain education services, and supply of relevant goods and services; Supply of certain healthcare services, and supply of relevant goods and services.
+--------------------------------------------------
+Question: 194. Tax Refunds for Tourists Scheme: How much time does the tourist have to export the goods and have the Tax Free Tag validated?
+Answer: The tourist must export the goods and have the Tax Free Tag validated within 3 months of purchase otherwise a tax free refund is not possible.
+--------------------------------------------------
+Question: 195. Will UAE CT be applicable to businesses in each Emirate?
+Answer: Yes. The UAE CT is a Federal tax and will therefore apply across all the Emirates.
+--------------------------------------------------
+Question: 196. How long is the payment reference number valid for?
+Answer: The payment reference number is valid until the payment is received by the FTA or until you cancel the existing selection of liabilities and the associated payment reference number in EmaraTax.
+--------------------------------------------------
+Question: 197. Why does the UAE need to coordinate VAT implementation with other GCC countries?
+Answer: The UAE is part of a group of countries which are closely connected through “The Economic Agreement Between the GCC States” and “The GCC Customs Union”. The GCC group of nations have historically worked together in designing and implementing new public policies as such a collaborative approach is best for the region.
+--------------------------------------------------
+Question: 198. Will excise tax apply to goods released for consumption in a freezone?
+Answer: Goods released for consumption in a freezone will be subject to excise tax. This includes any freezone that may also be registered as a designated zone. If goods are held out for retail sale, or intended for consumption within a freezone, excise tax will need to be paid by the importer or producer that ‘released’ the goods.
+--------------------------------------------------
+Question: 199. Are there any limitation of number of stamps that can be ordered?
+Answer: There are no limitations in place, however it will be worth noting that stamps are to be delivered in specific Minimum Order Quantities (MOQs) dependent upon the format of supply required: Reels, Sheets, Bundles. The MOQ requirements for each of these formats are as below: Reel 30,000 Stamps (per single reel) Sheets 240 Stamps (per single sheet Bundles 70,000 (per box of bundled stamps
+--------------------------------------------------
+Question: 200. What are the categories of exempt supplies?
+Answer: The following categories of supplies will be exempt from VAT: The supply of some financial services; Residential properties (excluding the first supply of newly constructed residential property which qualifies for the zero-rating treatment); Bare land; and Local passenger transport.
+--------------------------------------------------
+Question: 201. Tax Refunds for Tourists Scheme: If the tourist fails to obtain validation on exit, is there anything they can do?
+Answer: The tourist can return to the UAE with the goods and obtain validation on their departure within 3 months from the date of purchase. Goods must not be consumed or partly consumed when requesting validation, and must be available for inspection.
+--------------------------------------------------
+Question: 202. Will I have to pay UAE CT alongside Emirate level taxes?
+Answer: Businesses engaged in the extraction of the UAE’s natural resources and in certain non-extractive activities that are subject to Emirate level taxation will be outside the scope of UAE CT, subject to meeting certain conditions. Other businesses may be subject to both Federal CT and Emirate level taxation. Emirate level taxes paid will not be able to be credited against or otherwise reduce the amount of Federal CT payable.
+--------------------------------------------------
+Question: 203. If I have several payments to make, can I generate more than one unique payment reference number at a time?
+Answer: You can either generate a separate unique payment reference number for each individual liability or you can choose to generate a unique payment reference number for any combination of liabilities of the same tax type. Please note that you can generate multiple payment reference numbers simultaneously. However, if you have already selected a particular liability and generated a unique payment reference number for making payment, then that same liability cannot be selected as part of any other unique payment reference number unless the originally created reference number is cancelled.
+--------------------------------------------------
+Question: 204. What is the standard rate of VAT in the UAE?
+Answer: The standard rate of VAT in the UAE is 5%.
+--------------------------------------------------
+Question: 205. Will samples be subject to excise tax?
+Answer: Samples of excise goods that are given away for free will also be subject to excise tax. Excise tax is not a transaction based tax so tax is due on the goods when they are released for consumption (i.e. enter free circulation) in the UAE, regardless of whether or not they are intended for sale.
+--------------------------------------------------
+Question: 206. How do key manufacturers/distributors raise concerns or issues relating to the scheme, or have key questions addressed?
+Answer: The FTA and its partner De La Rue are on hand to deal with any on-going issues and questions. A Customer Care team is being established to handle all queries and can be reached at ftadtscustomercare@delarue.com .
+--------------------------------------------------
+Question: 207. Will there be VAT grouping?
+Answer: Businesses that satisfy certain requirements covered under the Legislation (such as being resident in the UAE and being related/associated parties) will be able to register as a VAT group. VAT grouping would generally simplify accounting for VAT.
+--------------------------------------------------
+Question: 208. Tax Refunds for Tourist Scheme: Is there a limit on the number of items that a tourist can claim refund on? (e.g. 10 mobile phones)
+Answer: No, however they should be for personal use or gifts. Purchases may be subject to increased checks if it is suspected that these goods are not for personal use.
+--------------------------------------------------
+Question: 209. What is taxable income?
+Answer: The taxable income for a Tax Period is the accounting net profit (or loss) of the business, after making adjustments for certain items as defined in the Corporate Tax Law.
+--------------------------------------------------
+Question: 210. Can I still make an overpayment?
+Answer: If you are paying using a UAE based bank/financial institution, overpayments will no longer be accepted by the FTA. If you are paying from overseas, we recommend that you do not make an overpayment. Instead, all taxpayers can choose to make an advance payment towards their VAT, Excise Tax and/or other liabilities. Please refer to FAQs on how advance payments are allocated for more information.
+--------------------------------------------------
+Question: 211. How does the government collect VAT?
+Answer: Businesses are responsible for carefully documenting their business income and costs and associated VAT charges. Registered businesses and traders charge VAT to all of their customers at the prevailing rate and incur VAT on goods / services that they buy from suppliers. The difference between these sums is reclaimed or paid to the government.
+--------------------------------------------------
+Question: 212. What help will retailers get from Manufacturers, Distributors and the FTA
+Answer: It is the responsibility of importers and manufacturers to ensure that the only products supplied into the UAE will be ones that carry tax stamps along with the approved encoding requirement at this time. Law enforcement officers will be checking throughout the supply chain that this is the case.
+--------------------------------------------------
+Question: 213. Will there be bad debt relief?
+Answer: VAT registered businesses will be able to reduce their output tax liability by the amount of VAT that relates to bad debt which has been written off by the VAT registered business. The legislation includes the conditions and limitations concerning the use of this relief.
+--------------------------------------------------
+Question: 214. Tax Refunds for Tourist Scheme: Is there a maximum amount the tourist can spend?
+Answer: No.
+--------------------------------------------------
+Question: 215. Will UAE CT replace VAT in the UAE?
+Answer: No, CT and VAT are two different types of taxes. Both will continue to apply in the UAE.
+--------------------------------------------------
+Question: 216. How are advance payments allocated?
+Answer: If you are making an advance payment towards any future liabilities via GIBAN, you must first generate a unique payment reference number in EmaraTax. The advance payment amount will be allocated strictly on the basis of due dates starting with the oldest liability first. You can only make this type of an advance payment after first settling all existing liabilities for that tax type. If you choose to make an advance payment specifically towards your immediate next tax filing via GIBAN, you must first generate a unique payment reference number in EmaraTax. The advance payment amount will be held on account until that return is filed. Any excess amount after allocation towards that return, will then be allocated to any other outstanding or future liabilities for that tax type strictly on the basis of due dates starting with the oldest liability first.
+--------------------------------------------------
+Question: 217. Does VAT apply to all goods and services?
+Answer: VAT, as a general consumption tax, is applied at 5% to all transactions of goods and services unless specifically exempt in Article 46 of the Federal Decree-Law No. (8) of 2017 on Value Added Tax or subject to a rate of 0% as per Article 45 of the Federal Decree-Law.
+--------------------------------------------------
+Question: 218. What will happen to retailers who sell tobacco without a tax stamp?
+Answer: We expect all cigarettes sold in the UAE from August 1st 2019 to carry a digital tax stamp. There will be a penalty put in place for non-compliance, the details of which will be communicated in due course.
+--------------------------------------------------
+Question: 219. Will there be a profit margin scheme?
+Answer: To avoid double taxation where second hand goods are acquired by a registered person from an unregistered person for the purpose of resale, the VAT-registered person will be able to account for VAT on sales of second hand goods with reference to the difference between the purchase price of the goods and the sale price of the goods (that is, the profit margin). The VAT which must be accounted for by the registered person will be included in the profit margin. Further details of the conditions to be met in order to apply this mechanism can be found in the Executive Regulations of the Federal Decree-Law No.(8) of 2017 on Value Added Tax.
+--------------------------------------------------
+Question: 220. Tax Refunds for Tourists Scheme: Should goods be available for inspection at the exit points?
+Answer: Yes
+--------------------------------------------------
+Question: 221. What expenditure will be deductible for the purposes of calculating taxable income?
+Answer: In principle, all legitimate business expenses incurred to derive taxable income will be deductible, although the timing of the deduction may vary for different types of expenses and the accounting method applied. For capital assets, expenditure would generally be recognised by way of depreciation or amortisation deductions over the economic life of the asset or benefit. Expenditure that has a dual purpose, such as expenses incurred for both personal and business purposes, will need to be apportioned with the relevant portion of the expenditure treated as incurred wholly and exclusively for the purpose of the taxable person’s business.
+--------------------------------------------------
+Question: 222. Will EmaraTax allow the separation of two taxable accounts that were registered with one email?
+Answer: Yes. In EmaraTax, you will have access to link or delink Taxable Person accounts to/from a registered email.
+--------------------------------------------------
+Question: 223. What measures does the government take to ensure that businesses do not use the VAT implementation as an excuse to increase prices?
+Answer: VAT is intended to help improve the economic base of the country. Therefore, there are rules that require businesses to be clear about how much VAT you are paying for each transaction. Consumers should have the required information to decide whether to buy something or not.
+--------------------------------------------------
+Question: 224. How will consumers know what to look out for?
+Answer: Consumers should look for both the presence of physical stamps and digital codes on the products purchased in within the UAE.
+--------------------------------------------------
+Question: 225. How will partial exemption work?
+Answer: Where a VAT registered person incurs input tax on its business expenses, this input tax can be recovered in full if it relates to a taxable supply made, or intended to be made, by the registered person. In contrast, where the expense relates to a non-taxable supply (e.g. exempt supplies), the registered person may not recover the input tax paid. In certain situations, an expense may relate to both taxable and non-taxable supplies made by the registered person (such as activities of the banking sector). In these circumstances, the registered person would need to apportion input tax between the taxable and non-taxable supplies. Businesses will be expected to use input tax (ratio of recoverable input tax to total input tax incurred) as a basis for apportionment in the first instance although there will be the facility to use other methods where they are fair and agreed with the Federal Tax Authority.
+--------------------------------------------------
+Question: 226. Tax Refunds for Tourists Scheme: The tourist has obtained the Tax Free Tag. What are the next steps?
+Answer: The tourist must keep the Tax Free Tag attached to the invoice until their day of departure. On departure, the tourist must present their Tax Free Tag to a member of Planet staff or go to a Planet self-serve kiosk to have the Tax Free Tag digitally validated before checking in their luggage and going through security. At the end of the process, the tourist can choose whether they want a credit/debit card or cash refund.
+--------------------------------------------------
+Question: 227. Will I have to pay UAE CT alongside VAT in the UAE?
+Answer: If you are a registered business for VAT, you will have to pay VAT and CT separately. If your business is not VAT registered you may still have to pay CT.
+--------------------------------------------------
+Question: 228. Where can I find a payment reference number that I had previously created?
+Answer: In order to find a payment reference number that you previously created, please click on “My payments” in the menu on the left side of your screen, click on “Select and Pay”, then click on “Allocations pending payment”. You can also download a copy of the payment instruction under the “My Correspondence” section in EmaraTax.
+--------------------------------------------------
+Question: 229. How can one object to the decisions of the Authority?
+Answer: Any person is able to object to a decision of the Federal Tax Authority. As a first step, the person shall request the FTA to reconsider its decision. Such request of reconsideration has to be made within 20 business days from the date the person was notified of the original decision of the FTA, and the FTA will have 20 business days from receipt of such application to provide its revised decision. If the person is not satisfied with the revised decision of the FTA, it will be able to object to the Tax Disputes Resolution Committee which will be set up for these purposes. Objections to the Committee will need to be submitted within 20 business days from the date the person was notified of the FTA’s revised decision, and the person must pay all taxes and penalties subject of objection before objecting to the Committee. The Committee will typically be required to give its decision regarding the objection within 20 business days from its receipt. As a final step, if the person is not satisfied with the decision of the Committee, the person may challenge its decision before the competent court. The appeal must be made within 20 business days from the date of the appellant being notified of the Committee’s decision.
+--------------------------------------------------
+Question: 230. What consumers should do in case they find cigarettes pack without codes?
+Answer: Consumers should look for both the presence of physical stamps and digital codes on the products purchased. If a consumer believes that a pack of cigarettes is without mark and code, then they should notify the FTA where they purchased the pack from, so the appropriate action can be taken. This is likely to involve action against the retailer, importer and manufacturer but will not impact the consumer. For any Consumer queries, please contact the Customer Care team on ftadtscustomercare@delarue.com
+--------------------------------------------------
+Question: 231. What are the cases that would lead to the imposition of penalties?
+Answer: Penalties will be imposed in cases of non-compliance with tax legislation. Examples of actions and omissions that may trigger penalties include: A person failing to register when required to do so; A person failing to submit a tax return or to make a payment within the required period; A person failing to keep the records required under the issued tax legislation; Tax evasion offences where a person performs a deliberate act or omission with the intention of violating the provisions of the issued tax legislation.
+--------------------------------------------------
+Question: 232. Tax Refunds for Tourists Scheme: What currency will the refund appear in on the tourist's card statement?
+Answer: The refund will appear in the currency of the card.
+--------------------------------------------------
+Question: 233. Will I continue to pay service fees to local and Federal Governments now that the UAE has introduced CT?
+Answer: Yes. Applicable service fees will continue to be payable to the relevant Emirate and Federal Governments. Business set up, licence renewal and other Government fees and charges incurred wholly and exclusively in the ordinary course of business are deductible expenses for UAE CT purposes.
+--------------------------------------------------
+Question: 234. What is my registered email ID with the FTA?
+Answer: Your registered email ID is the email with which you login to the current eServices portal. You need to use the same registered email ID to reset your password and access your account in EmaraTax.
+--------------------------------------------------
+Question: 235. How do I include my Customs Registration in my records at the FTA?
+Answer: Log into the FTA e-Services portal via E-SERVICES , and go to EDIT on the VAT section and enter your Customs Registration Number. This will automatically update your records.
+--------------------------------------------------
+Question: 236. Will there be any special schemes for SMEs?
+Answer: No special rules are planned for small or medium sized enterprises. However, the FTA is providing through its website material and resources for these entities to assist them with their enquiries.
+--------------------------------------------------
+Question: 237. Tax Refunds for Tourists Scheme: What does a tourist need to do to collect their refund in cash?
+Answer: After validation, the tourist presents their passport/ GCC ID and Tax Free Tags to a Cash Refund Agent. Planet staff will be able to direct the tourist to the nearest cash agent.
+--------------------------------------------------
+Question: 238. Will UAE CT replace Excise Tax in the UAE?
+Answer: No, CT and Excise Tax are two different types of taxes. Both will continue to apply in the UAE.
+--------------------------------------------------
+Question: 239. If I am requested for a password to join an EmaraTax webinar session, what should I do?
+Answer: You do not need a password to join our online EmaraTax webinars. However, if you did not have WebEx already downloaded on your device, you may be asked to enter a password. All you have to do in this case is close WebEx and click again on the webinar link. A pop-up box will show up where you can click on "Open WebEx" and you will not be asked to enter a password.
+--------------------------------------------------
+Question: 240. I am not able to download or print my Tax Registration Certificate.
+Answer: If you have been allocated a “Provisional TRN” and this has been communicated to you by email, you will receive the Tax Registration Certificate after the FTA has fully reviewed your application.
+--------------------------------------------------
+Question: 241. What are transitional rules?
+Answer: There are special rules that deal with various situations that may arise in respect of supplies that span the introduction of VAT. For example: Where a payment is received in respect of a supply of goods before the introduction of VAT but the goods are actually delivered after the introduction of VAT, this means that VAT will have to be charged on such supplies. Likewise, special rules apply with regards to supplies of services spanning the introduction of VAT. Where a contract is concluded prior to the introduction of VAT in respect of a supply which is wholly or partly made after the introduction of VAT, and the contract does not contain clauses relating to the VAT treatment of the supply, then consideration for the supply is treated as inclusive of VAT. There are, however, special provisions that allow suppliers to charge VAT in situations where the recipient is able to recover the VAT even if there is no VAT clause in the contract.
+--------------------------------------------------
+Question: 242. Tax Refunds for Tourists Scheme: What happens if some goods are too large to carry and have to be shipped?
+Answer: Goods must be available for inspection at the validation point. The validation point will be before check in, luggage drop-off and security. The goods must be accompanied by the tourist when leaving the UAE so if they are shipped via courier they are not eligible goods under this scheme.
+--------------------------------------------------
+Question: 243. What is withholding tax?
+Answer: Withholding tax is a form of Corporate Tax collected at source by the payer on behalf of the recipient of the income. Withholding taxes exist in many tax systems and typically apply to the cross-border payment of dividends, interest, royalties and other types of income.
+--------------------------------------------------
+Question: 244. How can I access the EmaraTax webinars?
+Answer: You can access the online EmaraTax webinars on the Calendar of events page. Please click on the link to the webinar you wish to attend and access the session via WebEx or your browser at the appointed time. All you have to do is enter your name and email address to join the session.
+--------------------------------------------------
+Question: 245. How is a mixed-use building (residential and commercial) treated for VAT purposes?
+Answer: The rent or sale of a residential part of the building shall be treated as zero-rated or exempt, depending on whether this is a first supply within the first three years of completion of construction or a subsequent supply. The rent or sale of a commercial part of the building shall be treated as subject to VAT at 5%. Tax that cannot be directly attributed to exempt supplies or taxable supplies should be apportioned, and only the portion relating to the taxable supplies (at 0% and 5%) may be recovered
+--------------------------------------------------
+Question: 246. How will insurance be treated?
+Answer: Generally, insurance (vehicle, medical, etc) is taxable. Life insurance, however, is an exempt service.
+--------------------------------------------------
+Question: 247. Tax Refunds for Tourists Scheme: What happens if the refund cannot be collected at the point of departure because there is no time or there is a long queue?
+Answer: The Tax Free Tag must be validated at departure or no refund can be made. However, a tourist can provide card details later to obtain the refund once goods have been validated if they didn't have time to get a refund.
+--------------------------------------------------
+Question: 248. Will I need to consider the UAE’s international agreements for UAE CT purposes?
+Answer: In-force International agreements (including international agreements for the avoidance of double taxation) to which the UAE is a party should be considered under the UAE CT regime. In case of a conflict between the Corporate Tax Law and an international agreement with respect to the right to tax a certain item of income, the relevant international agreement may limit the application of UAE CT.
+--------------------------------------------------
+Question: 249. Does the launch of EmaraTax have any impact on my tax return submission and filing deadline?
+Answer: If you have already submitted a tax return, your EmaraTax account details will provide you with the status of your submission. If you prepared and saved a draft tax return on the old system but did not submit it, the details will be transferred to EmaraTax. You can login and submit the return and/or declaration from EmaraTax. Your tax return filing deadlines are set out in the UAE tax legislation and will not change as a result of the introduction of EmaraTax.
+--------------------------------------------------
+Question: 250. How will financial services be treated?
+Answer: Fee based financial services are subject to VAT while margin based products are exempt.
+--------------------------------------------------
+Question: 251. Tax Refunds for Tourist Scheme: What is validation or digital validation?
+Answer: Validation is the confirmation that the goods have been exported and the VAT can be reclaimed for these purchases. This is done by Planet at the point of exit (either by the staff, or by self-serve kiosks) before the tourist checks in their luggage and goes through security. There may also be additional checks required after security.
+--------------------------------------------------
+Question: 252. What will be the role of the Federal Tax Authority?
+Answer: The Federal Tax Authority will be responsible for the administration, collection and enforcement of UAE CT and other federal taxes. For the purpose of the administration, collection and enforcement of CT, the Federal Tax Authority will issue guides, respond to clarifications and provide awareness as required.
+--------------------------------------------------
+Question: 253. Where can I access the VAT 301 import declaration form on EmaraTax?
+Answer: You can access the VAT 301 form by following the below steps: - Login to EmaraTax - Navigate to your Taxable Person tile - Click on "VAT" in the menu on the left side of your screen. The VAT 301 tile will be displayed on your screen. - Initiate a new application by clicking on "Create New".
+--------------------------------------------------
+Question: 254. How will Islamic finance be treated?
+Answer: Islamic finance products are consistent with the principles of sharia and therefore often operate differently from financial products that are common internationally. To ensure that there are no inconsistencies between the VAT treatment of standard financial services and Islamic finance products, the treatment of Islamic finance products is aligned with the treatment of similar standard financial services.
+--------------------------------------------------
+Question: 255. Tax Refunds for Tourists Scheme: Where are the export validation points?
+Answer: Planet Validation points will be before check in and are branded Planet Tax Free. Initially these will be in Abu Dhabi, Dubai and Sharjah International Airports. The validation points will be open 24/7. These will be followed by other validation points including Dubai Al Maktoum airport, Al Ain airport, Ras Al Khaimah airport, Port Zayed, Port Rashid, Al Ghuwaifat land border, Al Ain land border and Hatta land border.
+--------------------------------------------------
+Question: 256. What is a self-assessment regime?
+Answer: A self-assessment regime is one where taxpayers are responsible for calculating, reporting and paying their taxes.
+--------------------------------------------------
+Question: 257. If I have any questions related to TINCOs, what should I do?
+Answer: For any questions related to TINCOs, please send an email to Freight.Forwarders@tax.gov.ae.
+--------------------------------------------------
+Question: 258. Can UAE nationals claim VAT incurred on building new residences?
+Answer: A scheme has been introduced to allow UAE nationals to reclaim VAT paid on goods and services relating to constructing new residences which will be privately used by the person and his family. This will allow the recovery of VAT incurred on such expenses including contractor’s services and building material.
+--------------------------------------------------
+Question: 259. Tax Refunds for Tourists Scheme: Will the tourist be able to claim a refund on things like restaurant meals or taxis?
+Answer: No, only eligible goods can receive a Tax Free Tag for refund.
+--------------------------------------------------
+Question: 260. What will be the role of the Ministry of Finance?
+Answer: The Ministry of Finance will remain the ‘competent authority’ for purposes of bilateral/multilateral tax agreements and the international exchange of information for tax purposes. The Ministry of Finance also has the authority to issue further guidance and implementing regulations for UAE CT and other federal taxes.
+--------------------------------------------------
+Question: 261. What is the time shown in EmaraTax for FTA services?
+Answer: The time mentioned in EmaraTax services is the estimated amount of time required for a user to complete and submit the application for the relevant service.
+--------------------------------------------------
+Question: 262. How quickly will refunds be released?
+Answer: Refunds will be made after the receipt of the application and subject to verification checks, with a particular focus on avoiding fraud.
+--------------------------------------------------
+Question: 263. How will the UAE CT regime apply to partnerships?
+Answer: The Corporate Tax Law makes a distinction between unincorporated and incorporated partnerships. “Unincorporated Partnerships” (as defined in the Corporate Tax Law) are essentially a contractual relationship or arrangement between two or more persons, as opposed to being a distinct juridical person separate from their partners / members. Unincorporated partnerships are treated as ‘transparent’ for UAE CT purposes. This means that an unincorporated partnership is not subject to UAE CT in its own right. Instead, each partner is subject to UAE CT on their share of the income from the business conducted through the partnership. Incorporated partnerships include limited liability partnerships, partnerships limited by shares and other types of partnerships where none of the partners have unlimited liability for the partnership’s obligations or other partners' actions. Such partnerships are subject to CT in the same manner as a corporate entity (see section ‘Juridical persons’).
+--------------------------------------------------
+Question: 264. What should I do if I have a question about EmaraTax and I cannot find the answer on the website?
+Answer: If you have any questions about EmaraTax, please contact our Call Center at 80082923 or email us at info@tax.gov.ae
+--------------------------------------------------
+Question: 265. Will FTA issue rulings or provide tax advice?
+Answer: In the course of its interaction with taxpayers, the FTA may provide its views on various matters in the law. Taxpayers may choose to challenge these views. It should be noted that penalties may be imposed on taxpayers who are found to violate any tax laws and regulations.
+--------------------------------------------------
+Question: 266. What should I be doing to prepare for UAE CT?
+Answer: To assess what the UAE CT regime means for your business, as a starting point, you should: 1. Read the Corporate Tax Law and the supporting information available on the websites of the Ministry of Finance and the Federal Tax Authority. 2. Use the available information to determine whether your business will be subject to UAE CT and if so, from what date. 3. Understand the requirements for your business under the Corporate Tax Law, including, for example: a. Whether your business needs to register for UAE CT. b. What is the accounting / Tax Period for your business. c. By when your business would need to file a UAE CT return. d. What elections or applications can or should your business make for UAE CT purposes. e. How UAE CT may impact your business’ obligations and liabilities under contracts with customers and suppliers. f. What financial information and records your business will need to keep for UAE CT purposes. 4. Regularly check the websites of the Ministry of Finance and the Federal Tax Authority for further information and guidance on the UAE CT regime.
+--------------------------------------------------
+Question: 267. While signing up, what should I do if I dont receive the OTP by email?
+Answer: Please verify that you provided a valid email address and  if you have received your OTP in the junk folder of your email. If you do not receive an OTP, you can choose to resend OTP again. Note that your new OTP requests are limited to just two.
+--------------------------------------------------
+Question: 268. Will it be possible to issue cash receipts instead of VAT invoices?
+Answer: A registered taxable person must issue a valid VAT invoice for its taxable supplies. To be considered as a valid VAT invoice, the document must include certain particulars as mentioned in the legislation. In certain situations the supplier may be able to issue a simplified VAT invoice. The conditions for the VAT invoice and the simplified VAT invoice are mentioned in the legislation.
+--------------------------------------------------
+Question: 269. Where can I find the Corporate Tax Law?
+Answer: The Corporate Tax Law can be found at Click here
+--------------------------------------------------
+Question: 270. Will my GIBAN number change after the move to EmaraTax?
+Answer: No.
+--------------------------------------------------
+Question: 271. Under which conditions will businesses be allowed to claim VAT incurred on expenses?
+Answer: VAT on expenses that were incurred by a business can be deducted in the following circumstances: The business must be a taxable person. VAT should have been charged correctly (i.e. unduly charged VAT is not recoverable). The business must hold documentation showing the VAT paid (e.g. valid tax invoice). The goods or services acquired are used or intended to be used for making taxable supplies. VAT input tax refund can be claimed only on the amount paid or intended to be paid before the expiration of 6 months after the agreed date for the payment of the supply.
+--------------------------------------------------
+Question: 272. What is a juridical person?
+Answer: A “juridical person” is an entity established or otherwise recognised under the laws and regulations of the UAE, or under the laws of a foreign jurisdiction, that has a legal personality separate from its founders, owners and directors. Examples of UAE domestic juridical persons include a limited liability company, a foundation, an ‘onshore’ trust, a public or private joint stock company, and other entities that have separate legal personality under the applicable UAE ‘mainland’ legislation or Free Zone regulations. UAE branches of a domestic or a foreign juridical person are regarded as an extension of their “parent” or “head office” and, therefore, are not considered separate juridical persons.
+--------------------------------------------------
+Question: 273. Do you want to learn about how to register for tax in EmaraTax?
+Answer: You can watch some videos on registering for Excise Tax and VAT on the "Walk-through videos" page on the EmaraTax webpage. The videos are available in both English and Arabic.
+--------------------------------------------------
+Question: 274. Will non-residents be required to register for VAT?
+Answer: Non-residents that make taxable supplies in the UAE will be required to register for VAT unless there is any other UAE resident person who is responsible for accounting for VAT on these supplies.
+--------------------------------------------------
+Question: 275. What is an investment fund?
+Answer: An investment fund is an entity whose principal activity is the issuing of investment interests to raise funds or pool investor funds or establish a joint investor fund with the aim of enabling the holder of such an investment interest to benefit from the profits or gains from the entity’s acquisition, holding, management or disposal of investments, in accordance with  the applicable legislation.
+--------------------------------------------------
+Question: 276. Where can I find a quick user guide about how to reset my password?
+Answer: You can refer to the password reset user guide here .
+--------------------------------------------------
+Question: 277. Will VAT be paid on imports?
+Answer: VAT is due on the goods and services purchased from abroad. In case the recipient in the State is a registered person with the Federal Tax Authority for VAT purposes, VAT would be due on that import using a reverse charge mechanism. In case the recipient in the State is a non-registered person for VAT purposes, VAT would need to be paid before the goods are released to the person.
+--------------------------------------------------
+Question: 278. Will the UAE CT regime tax large multinationals at the global minimum tax rate?
+Answer: The UAE is a member of the OECD BEPS Inclusive Framework and is committed to addressing the challenges faced by tax jurisdictions internationally. As such, the introduction of a CT regime helps to provide the UAE with a framework to adopt the Pillar Two rules. Until such time as the Pillar Two rules are adopted by the UAE, multinationals will be subject to CT under the regular UAE CT regime. Further information will be released in due course on the implementation of the Pillar Two rules in the UAE.
+--------------------------------------------------
+Question: 279. Where can I print a receipt for a past payment?
+Answer: You can view your past payments under the "transaction history" section of the "My payments" dashboard. You can download a copy of a payment receipt for any past payments that have been made on EmaraTax under the "My Correspondence" section in EmaraTax.
+--------------------------------------------------
+Question: 280. How will Government Entities be treated for VAT purposes?
+Answer: Supplies made by government entities will typically be subject to VAT. This will ensure that government entities are not unfairly advantaged as compared to private businesses. Certain supplies made by government entities will, however, be excluded from the scope of VAT if they are not in competition with the private sector or where the entity is the sole provider of such supplies. It is likely that certain government entities will be entitled to VAT refunds. For the supplies provided for government entities, the treatment of such supplies shall depend on the same supply and not on the recipient of the supply. Therefore, if the supply is subject to the standard rate, the treatment would remain the same even if it is provided to a government entity.
+--------------------------------------------------
+Question: 281. Will the oil and gas sector and other extractive industries be subject to UAE CT?
+Answer: Businesses engaged in the extraction of the UAE’s natural resources and in the non-extractive aspects of the natural resources value chain that are subject to Emirate-level taxation will be outside the scope of the UAE CT regime, subject to certain conditions and safeguards as specified in Article 7 and Article 8 of the Corporate Tax Law, respectively.
+--------------------------------------------------
+Question: 282. Is there a difference between payments via bank transfer and payments via GIBAN?
+Answer: No. The only bank transfers allowed by the FTA are GIBAN payments where the GIBAN is used instead of the beneficiary IBAN.
+--------------------------------------------------
+Question: 283. Will businesses have to report their business activities in respect of each Emirate?
+Answer: Businesses will need to complete additional information on their VAT returns to report revenues earned in each Emirate. Further detail on this can be found in the Executive Regulation of the Federal Decree-Law No. (8) of 2017 on Value Added Tax.
+--------------------------------------------------
+Question: 284. Will individuals be subject to UAE CT?
+Answer: Only individuals who engage in a business or business activity as per a Cabinet Decision that will be issued in due course       will be subject to UAE CT. Individuals engaged in other activities will generally be outside the scope of the CT regime.
+--------------------------------------------------
+Question: 285. I submitted my registration application on the old system. After migrating to EmaraTax, my application indicates a status of "Additional information". What should I do?
+Answer: Additional details and business validations have been introduced in the registration application in EmaraTax. Therefore, you should provide the additional information by following the below steps: 1) Login to EmaraTax and navigate to your Taxable Person tile 2) Click on the "Continue" button on your VAT or Excise Tax tile to view your registration application. 3) Provide the required information and resubmit your application.
+--------------------------------------------------
+Question: 286. Will the goods exempt from customs duties also be exempt from VAT?
+Answer: No. Imported goods may be exempt from customs duties but still be subject to VAT.
+--------------------------------------------------
+Question: 287. What does it mean to have a ‘separate legal personality”?
+Answer: Separate legal personality means that the entity has its own rights, obligations and liabilities. As a consequence, the owners of the juridical person would typically have limited liability when it comes to the debts and obligations of the entity.
+--------------------------------------------------
+Question: 288. Where can I view my draft Voluntary Disclosure (VD) application on EmaraTax?
+Answer: You can find your draft Voluntary Disclosure application  by following the below steps: 1) Login to EmaraTax and navigate to your Taxable Person tile 2) Select "VAT" in the menu on the left side of your screen. 3) Navigate to the "Returns & Refunds" section, 4) Select the "My Filings" tile and click on "View all" 5) a page will appear showing all your historical obligations including returns and VDs.
+--------------------------------------------------
+Question: 289. Will investment funds be subject to UAE CT?
+Answer: Investment funds are commonly organised as limited partnerships (as opposed to corporate entities) to ensure tax neutrality for their investors. This tax neutrality follows from the fact that most countries treat limited partnerships as transparent (‘flow through’) for domestic and international tax purposes, which puts investors in the fund in a similar tax position as if they had invested directly in the underlying assets of the fund. Investment funds that are structured as partnerships, unit trusts and other unincorporated vehicles would generally be treated as fiscally transparent “Unincorporated Partnerships” for the purposes of UAE CT. Investment funds that are structured as corporate entities, including Real Estate Investment Trusts, or partnership funds that apply to be treated as a “Taxable Person” for UAE CT purposes in their own right, can apply to the Federal Tax Authority to be exempt from UAE CT subject to meeting certain requirements.
+--------------------------------------------------
+Question: 290. Can I cancel my draft registration/deregistration application on EmaraTax?
+Answer: Yes, you can cancel your current draft registration/deregistration application by clicking the "Cancel" button on your application.
+--------------------------------------------------
+Question: 291. When will a non-resident person be subject to CT?
+Answer: A non-resident person will be subject to UAE CT if the non-resident person has a permanent establishment in the UAE or earns income sourced from the UAE (subject to 0% taxation). Income will generally be considered to be sourced from the UAE where it is derived from a UAE resident, a UAE Permanent Establishment, or the income is derived from activities performed or from assets located, capital invested and rights used in the UAE.
+--------------------------------------------------
+Question: 292. Where can I view my draft deregistration application on EmaraTax?
+Answer: You can view your draft deregistration application on EmaraTax by following the below steps: 1) Login to EmaraTax and navigate to your Taxable Person tile 2) Click on the "Actions" button on your VAT or Excise Tax tile to view the deregistration draft application.
+--------------------------------------------------
+Question: 293. What standards must be used to prepare financial statements?
+Answer: For UAE CT purposes, the financial statements of UAE entities and other businesses should be prepared in accordance with accounting standards accepted in the UAE. International Financial Reporting Standards (IFRS) is the most frequently used accounting standard in the UAE.
+--------------------------------------------------
+Question: 294. Where can I view my draft registration application on EmaraTax?
+Answer: You can view your draft registration application on EmaraTax by following the below steps: 1) Login to EmaraTax and navigate to your Taxable Person tile 2) Click on the "Continue" button on your VAT or Excise Tax tile to view the draft registration application
+--------------------------------------------------
+Question: 295. What are transfer pricing rules?
+Answer: Transfer pricing rules seek to ensure that transactions between Related Parties are carried out on arm’s length terms, as if the transaction was carried out between independent parties. To prevent the manipulation of taxable income, various articles in the Corporate Tax Law require that the consideration of transactions with Related Parties and Connected Persons needs to be determined by reference to their “Market Value”.
+--------------------------------------------------
+Question: 296. Where can I view any excess credits available on my account?
+Answer: If you had any outstanding liabilities on your account, it's likely that any excess credit you had available on eServices, has been atuomatically allocated towards those outstanding liabilities. Any remaining excess credits available on your account after settling your outstanding liabilities, will be visible under the "Funds available on account" tile on the "My Payments" screen.
+--------------------------------------------------
+Question: 297. Does the UAE CT regime have withholding tax?
+Answer: A 0% withholding tax may apply to certain types of UAE sourced income paid to non-residents. Because of the 0% rate, in practice, no withholding tax would be due and there will be no withholding tax related registration and filing obligations for UAE businesses or foreign recipients of UAE sourced income. Withholding tax does not apply to transactions between UAE resident persons.
+--------------------------------------------------
+Question: 298. Why are my outstanding payments not showing up in EmaraTax?
+Answer: If you had any excess credit available on your account in eServices, it's likely that this available credit was automatically allocated towards your outstanding liabilities.
+--------------------------------------------------
+Question: 299. Will the banking sector be subject to UAE CT?
+Answer: Yes. UAE headquartered banks and UAE branches of foreign banks will be subject to UAE CT.
+--------------------------------------------------
+Question: 300. Will EmaraTax replace the current platform?
+Answer: Yes. Your account history will be automatically transferred to EmaraTax when the system launches.
+--------------------------------------------------
+Question: 301. Who will be required to register for UAE CT purposes?
+Answer: All taxpayers, as prescribed by the Minister, will be required to register for UAE CT and obtain a Corporate Tax Registration Number. The Federal Tax Authority may also request certain Exempt Persons to register for UAE CT.
+--------------------------------------------------
+Question: 302. Who can join the EmaraTax Webinars?
+Answer: EmaraTax webinars are available for access by anyone. If you were unable to attend a webinar, you will be able to find a recording of the event on the calendar of events section of the EmaraTax webpage.
+--------------------------------------------------
+Question: 303. What is meant by “large” multinationals?
+Answer: A multinational corporation is a corporation that operates in its home country, as well as in other countries through a foreign subsidiaries, branches or other entity forms of presence / registration. Merely earning foreign sourced income from outside its home country without a foreign presence or registration in a foreign country would not make a business a multinational corporation. In the context of the global minimum effective tax rate as proposed under ‘Pillar Two’ of the OECD Base Erosion and Profit Shifting project, ”large” refers to a multinational corporation that has consolidated global revenues in excess of the UAE Dirham equivalent of EUR 750 million.
+--------------------------------------------------
+Question: 304. What if I cannot attend an EmaraTax webinar?
+Answer: If you were unable to attend a webinar, you will be able to find a recording of the event on the calendar of events section of the EmaraTax webpage.
+--------------------------------------------------
+Question: 305. Why are we changing to EmaraTax?
+Answer: EmaraTax will significantly enhance the way that taxpayers can access the FTA’s services, pay their taxes and obtain refunds. The new platform also greatly enhances the ability of the FTA to administer taxes in the UAE, enables better, faster decision-making and earlier engagement with taxpayers that need support.
+--------------------------------------------------
+Question: 306. Will each partner in an “unincorporated” partnership be required to register and file a UAE CT return?
+Answer: Natural persons that are engaged in a business or business activity through an unincorporated partnership are individually subject to UAE CT on their share of the income from the unincorporated partnership. Each partner would be required to register for UAE CT purposes, and comply with the requirements of the Corporate Tax Law. The partners in an unincorporated partnership can make an application to the Federal Tax Authority for the unincorporated partnership to be treated as a separate and standalone taxable person for the purposes of UAE CT. If the application is approved, the unincorporated partnership will file a CT return on behalf of the partners in the partnership.
+--------------------------------------------------
+Question: 307. Who is exempt from UAE CT?
+Answer: The following persons are exempt from UAE CT, either automatically or by way of application: 1. The UAE Federal and Emirate Governments and their departments, authorities and other public institutions; 2. Wholly Government-owned companies that carry out a mandated activity, and that are listed in a Cabinet Decision; 3. Businesses engaged in the extraction of UAE natural resources and related non-extractive activities that are subject to Emirate-level taxation after meeting certain conditions; 4. Public Benefit Entities that are listed in a Cabinet Decision; 5. Investment Funds that meet the prescribed conditions; 6. Public or private pension or social security funds that meet certain conditions; and 7. UAE juridical persons that are wholly-owned and controlled by certain exempted entities after meeting certain conditions.
+--------------------------------------------------
+Question: 308. What expenditure will be non-deductible for the purposes of calculating taxable income?
+Answer: Article 33 of the UAE Corporate Tax Law lists certain specific expenses for which no deduction will be allowed, such as bribes, fines and penalties, and no deduction is available for expenditure incurred in deriving income that is exempt from CT or losses that are not connected with or arising out of a taxpayer's business. Additionally, certain restrictions may apply to the deduction of interest expenditure (see question ‘Will my interest expenditure be fully deductible?’ under section Deductions).
+--------------------------------------------------
+Question: 309. Do I need to signup again to access EmaraTax?
+Answer: If you already have a registered account with the FTA, then your account will be transferred to the new system automatically and you do not need to sign up. If you have never been registered with the FTA, then you will need to sign up as a new user.
+--------------------------------------------------
+Question: 310. What will happen to my account history from the legacy system?
+Answer: Your account history will be automatically transferred to EmaraTax when
+the system launches.
+--------------------------------------------------
+Question: 311. Who is considered resident for UAE CT purposes?
+Answer: UAE incorporated companies such as LLCs, PSCs, PJSCs, and other UAE juridical persons will be subject to CT as resident persons. An entity that is incorporated in the UAE will automatically be considered a ‘resident’ person for UAE CT purposes. Equally, an individual who is engaged in a business or business activity in the UAE will also be considered a resident person for UAE CT purposes. A foreign company may be treated as a resident person for UAE CT purposes if it is effectively “managed and controlled” in the UAE. All facts and circumstances must be considered in determining where a company is effectively managed and controlled, but a relevant indicator may include the place where the strategic decisions affecting the business are made.
+--------------------------------------------------
+Question: 312. Will there be any features from the legacy system that will not be available on EmaraTax?
+Answer: No, EmaraTax will include all of the functions that are currently
+available.
+--------------------------------------------------
+Question: 313. What is the UAE CT treatment of a sole proprietorship or civil company?
+Answer: For certain types of business activities, natural persons can form a sole proprietorship or civil company. For CT purposes, these entities will be treated as the natural person or persons owning them.
+--------------------------------------------------
+Question: 314. How much time will I have to get ready for the new system?
+Answer: Whilst a number
+of important improvements have been made to the way you will access and use our
+systems, we are striving to limit the impact on users. We would expect that
+most current users will need to spend approximately 3 hours in preparing for
+the new system including, updating user account details and watching the
+"walk through" videos we have published.
+--------------------------------------------------
+Question: 315. How do you determine whether a juridical person has a “Business” that is within the scope of UAE CT?
+Answer: All activities undertaken by a juridical person will be deemed “business activities” and are within the scope of UAE CT, unless specifically exempted.
+--------------------------------------------------
+Question: 316. In the future, will I be able to retrieve notifications received from the FTA?
+Answer: Yes. Once EmaraTax goes live, all notifications
+issued to you by the FTA will be available in your account under the "My
+Correspondence" section.
+--------------------------------------------------
+Question: 317. What is a recognised stock exchange?
+Answer: A recognised stock exchange includes: ● UAE: Any stock exchange established in the UAE that is licensed and regulated by the relevant competent authority (e.g. Nasdaq Dubai, Abu Dhabi Securities Exchange, or Dubai Financial Market); ● Foreign: Any stock exchange established outside the UAE of equal standing to the stock exchange in the UAE
+--------------------------------------------------
+Question: 318. Will I be able to communicate with the FTA using EmaraTax?
+Answer: Yes, EmaraTax will
+enable taxpayers to receive correspondence from the FTA on matters related to
+their tax affairs.
+--------------------------------------------------
+Question: 319. Are UAE branches of a UAE juridical person required to separately register or file for UAE CT?
+Answer: UAE branches of a UAE juridical person are not required to separately register or file for UAE CT.
+--------------------------------------------------
+Question: 320. What if I have more questions?
+Answer: Please add your questions at the top of the
+page under the “add a question” button and we will update this FAQs page
+accordingly.
+--------------------------------------------------
+Question: 321. Will financial statements need to be prepared on an accruals basis?
+Answer: Taxpayers should prepare their financial statements, and determine their taxable income on an accruals basis, unless they are permitted to use the cash basis of accounting instead. The Minister may prescribe the instances where a taxpayer can prepare financial statements using the cash basis, which is expected to be available for certain categories of individual entrepreneurs and small businesses.
+--------------------------------------------------
+Question: 322. Is a credit available for foreign tax paid on income that is also subject to UAE CT?
+Answer: Yes. Foreign tax paid on income that is also subject to UAE CT can be deducted as a foreign tax credit from the UAE CT payable. The maximum foreign tax credit is the lower of the foreign tax paid and the UAE CT payable on the relevant income. Any excess foreign tax credit cannot be carried forward or back to a different Tax Period.
+--------------------------------------------------
+Question: 323. Will the real estate sector be subject to UAE CT?
+Answer: Yes. Businesses engaged in real estate management, construction, development, agency and brokerage activities will be subject to UAE CT.
+--------------------------------------------------
+Question: 324. When do I register for UAE CT?
+Answer: Taxpayers are required to register before they file their first CT return.
+--------------------------------------------------
+Question: 325. Will my interest expenditure be fully deductible?
+Answer: The Corporate Tax Law provides for certain restrictions on the deductibility of interest expenditure to discourage excessive debt ﬁnancing, and to ensure that debt financing used or arising as a result of certain specific intra-group transactions will only be deductible if there is a valid commercial reason for obtaining the loan. General interest deduction limitation rule: Businesses with net interest expenditure above a threshold to be set by the Minister will be allowed to deduct net interest expenditure up to 30% of their earnings before interest, tax, depreciation and amortisation (EBITDA), excluding any exempt income. Any net interest expenditure which exceeds this limit may be carried forward and utilised in the subsequent 10 tax periods. Businesses with net interest expenditure below the threshold to be set by the Minister will not be subject to the general interest deduction limitation rule. The general interest deduction limitation rule will not apply to banks and other finance institutions, insurance providers or individuals. Specific interest deduction limitation rule: Where a loan is obtained from a Related Party and is used to finance income that is exempt from CT, the interest on the Related Party loan will not be deductible unless the taxpayer can demonstrate that the main purpose of obtaining the loan and carrying out the transaction is not to gain a CT advantage.
+--------------------------------------------------
+Question: 326. Who are Related Parties?
+Answer: Generally, Related Parties of an individual refer to the individual's relatives as well as companies in which the individual, alone or together with their Related Parties, has a controlling ownership interest (typically 50% or more of shares of the company). Similarly, Related Parties of a company refers to any other companies in which the company, alone or together with their Related Parties, has a controlling ownership interest (typically 50% or more of shares of the company), or that are under greater than 50% common ownership. Further detail on the definition of Related Parties can be found in Article 35 of the Corporate Tax Law.
+--------------------------------------------------
+Question: 327. When will a foreign company be considered a resident person?
+Answer: A foreign juridical person may be treated as a UAE resident for CT purposes and subject to UAE CT on its income sourced from both the UAE and abroad if it is effectively managed and controlled in the UAE (see above).
+--------------------------------------------------
+Question: 328. How will foreign partnerships be treated under the Corporate Tax Law?
+Answer: For UAE CT purposes, a foreign partnership will generally be considered as an Unincorporated Partnership subject to meeting certain conditions, including that the partnership is not subject to tax in the relevant foreign jurisdiction (see question ‘How will the UAE CT regime apply to partnerships?’ under section Partnerships).
+--------------------------------------------------
+Question: 329. Who is considered non-resident for UAE CT purposes?
+Answer: Under the Corporate Tax Law, a juridical person is considered a non-resident if it is incorporated in a foreign country and is effectively managed and controlled outside the UAE. A natural person is considered a non-resident for UAE CT purposes if he or she is not engaged in a taxable business or business activity in the UAE.
+--------------------------------------------------
+Question: 330. Will an individual be subject to UAE CT on business income earned outside the UAE?
+Answer: The taxable income of a natural person that is engaged in a business in the UAE is all the income that is derived from that business. This would include income earned from outside the UAE insofar as it relates to the business activity conducted in the UAE.
+--------------------------------------------------
+Question: 331. Will a UAE based investment fund manager be subject to UAE CT?
+Answer: Yes. If the investment fund manager is a UAE resident, or if it operates in the UAE through a permanent establishment, the investment fund manager will be subject to UAE CT on the income it earns.
+--------------------------------------------------
+Question: 332. Will the income of foreign branches of a UAE business be subject to UAE CT?
+Answer: The income of foreign branches or foreign permanent establishments of a UAE business will be included in the taxable income and UAE CT return of their UAE “head office”, unless the UAE business elects to claim an exemption for its foreign branch profits. This exemption is available for foreign branch profits that have already been subject to tax in the foreign jurisdiction.
+--------------------------------------------------
+Question: 333. Can a foreign individual be subject to UAE CT as a resident person?
+Answer: A foreign individual will be subject to UAE CT as a “Resident Person” insofar as he or she is engaged in a business or business activity in the UAE. Being treated as a Resident Person for UAE CT purposes does not automatically mean the foreign individual will be considered resident in the UAE for all other taxes or for the application of a double tax agreement. For individuals, a decision by the Cabinet of Ministers will be issued in due course specifying further information on what would bring a natural person within the charge to Corporate Tax.
+--------------------------------------------------
+Question: 334. What UAE CT adjustments to the financial statements will be required to calculate taxable income?
+Answer: The accounting net profit (or loss) would need to be adjusted for the items prescribed in the UAE Corporate Tax Law, including: 1. Unrealised gains/losses (subject to the election made regarding the application of the realisation principle); 2. Exempt income such as dividends; 3. Intra-group transfers; 4. Deductions which are not allowable for tax purposes; 5. Adjustments for transactions with Related Parties and Connected Persons; 6. Any incentives or tax reliefs; and 7. Any other adjustment specified by the Minister.
+--------------------------------------------------
+Question: 335. Will dividends paid by UAE companies be deductible for CT purposes?
+Answer: Dividends paid by UAE companies will not be deductible for CT purposes.
+--------------------------------------------------
+Question: 336. What foreign taxes can be credited against UAE CT?
+Answer: Withholding tax and other forms of foreign taxes on income or profits can be offset against the UAE CT liability, subject to any conditions as may be set out in an applicable agreement or treaty made between the UAE and the foreign country or territory.
+--------------------------------------------------
+Question: 337. Will the asset management sector be subject to UAE CT?
+Answer: The asset management and broader financial services sectors will be subject to UAE CT, although investment funds that meet certain conditions can apply to be exempt from UAE CT. Further, under the so-called Investment Manager Exemption, UAE based and regulated fund managers and other investment managers can perform discretionary asset / investment management services without creating a taxable presence in the UAE for their foreign clients.
+--------------------------------------------------
+Question: 338. Is there a registration threshold for UAE CT?
+Answer: There is no registration threshold for UAE CT.
+--------------------------------------------------
+Question: 339. Are foreign juridical persons subject to UAE CT in the same way as a UAE resident person?
+Answer: No (see question ‘Will foreign companies and other juridical persons be subject to UAE CT?’ under section Foreign Persons ), unless the foreign juridical person is “effectively managed and controlled” in the UAE and treated as a resident entity for UAE CT purposes.
+--------------------------------------------------
+Question: 340. Who are Connected Persons?
+Answer: Connected Persons are different from Related Parties. A person will be considered “connected” to a business that is within the scope of UAE CT if they are: 1. The owner of the business; 2. A director or officer of the business; or 3. A Related Party of either of the above.
+--------------------------------------------------
+Question: 341. How are non-residents subject to UAE CT?
+Answer: Non-resident persons will only be subject to UAE CT on: ●	income from their Permanent Establishment in the UAE; or ●	income sourced in the UAE (subject to a 0% withholding tax).
+--------------------------------------------------
+Question: 342. What if an individual has multiple business activities that are in the scope of UAE CT?
+Answer: The individual will file one CT return covering all their business activities that are within the scope of UAE CT.
+--------------------------------------------------
+Question: 343. When is a foreign juridical person considered “effectively managed and controlled” in the UAE?
+Answer: This will need to be assessed on a case by case basis, and may look at the location where the key decision makers, such as the directors, make the strategic decisions affecting the juridical person.
+--------------------------------------------------
+Question: 344. For the purpose of benefiting from the CT exemption, are both the investment fund and the fund manager required to be subject to regulatory oversight?
+Answer: For the investment fund exemption, either the investment fund or the manager of the fund is required to be subject to regulatory oversight, not both.
+--------------------------------------------------
+Question: 345. What is the UAE CT treatment for any unrealised gains and losses arising from accounting fair value or impairment adjustments?
+Answer: Where a business prepares their financial statements on an accruals basis, it has the following options in respect of the UAE CT treatment of unrealised accounting gains and losses: ●Option 1: The taxpayer can elect to recognise gains and losses on a ‘realisation basis’ for UAE CT purposes for all assets and liabilities - that is, any and all unrealised gains would not be taxable (and conversely, any and all unrealised losses would not be deductible) until they are realised; ●Option 2: The taxpayer can elect to recognise gains and losses on a ‘realisation basis’ for UAE CT purposes for assets and liabilities held on capital account only - that is, only unrealised gains and losses in respect of assets and liabilities held on capital account would not be taxable or deductible, respectively, until they are realised. Unrealised gains and losses arising from assets and liabilities held on revenue account, on the other hand, would continue to be included in taxable income on a current basis. Generally, assets and liabilities are considered to be held on capital account when they are not expected to be sold or traded with during the regular course of the business operation.
+--------------------------------------------------
+Question: 346. Will service fees paid to local and Federal Governments be deductible for UAE CT?
+Answer: Business set up, licence renewal and other Government fees and charges incurred wholly and exclusively in the ordinary course of business are deductible for CT purposes.
+--------------------------------------------------
+Question: 347. What transfer pricing methodologies can be used to determine the arm's length value?
+Answer: Generally, taxpayers are required to apply one or more of the following methodologies to determine the arm’s length values for transfer pricing purposes: 1. The comparable uncontrolled price method. 2. The resale price method. 3. The cost-plus method. 4. The transactional net margin method. 5. The transactional profit split method.
+--------------------------------------------------
+Question: 348. Will charities and other public benefit organisations be subject to UAE CT?
+Answer: Charities and other public benefit organisations will be exempt from UAE CT, subject to meeting certain conditions and being listed in a Cabinet Decision.
+--------------------------------------------------
+Question: 349. How do I register for UAE CT?
+Answer: Taxpayers will be able to electronically register for UAE CT through the website of the Federal Tax Authority. Further guidance on this will be provided in due course.
+--------------------------------------------------
+Question: 350. When will a foreign individual be subject to UAE CT as a non-resident person?
+Answer: A foreign individual that does not conduct a taxable business or business activity in the UAE (see question ‘Can a foreign individual be subject to UAE CT as a resident person?’ under section Foreign Persons) would generally not be subject to UAE CT. Merely earning UAE sourced income would not trigger CT payable or require the foreign individual to register and file for UAE CT.
+--------------------------------------------------
+Question: 351. Will an individual’s employment income be subject to UAE CT?
+Answer: UAE CT will not apply to an individual’s salary and other employment income (whether received from the public or private sector). Employment may include a continuing service relationship where all or most of the income of the individual is derived from one customer, and the service income is essentially remuneration for the natural person’s labour.
+--------------------------------------------------
+Question: 352. Will UAE holding companies be subject to UAE CT?
+Answer: UAE holding companies would be subject to UAE CT (at a 9% CT rate or the 0% Free Zone CT rate), depending on whether the holding company is established in a Free Zone or in the mainland UAE, but dividends and capital gains earned from domestic and foreign shareholdings would generally be exempt from CT, subject to certain conditions.
+--------------------------------------------------
+Question: 353. Could a UAE-based investment manager create a UAE taxable presence for its foreign customers?
+Answer: Under the so-called “Investment Manager Exemption”, regulated UAE investment managers can provide discretionary investment / asset management services to foreign funds and customers without creating a permanent establishment for the foreign investors or the foreign investment fund in the UAE, where certain conditions are met.
+--------------------------------------------------
+Question: 354. How do I know if I have a Permanent Establishment in the UAE?
+Answer: Generally, a foreign person will have a Permanent Establishment in the UAE if: ● It has a fixed or permanent place in the UAE through which the business of the foreign person is carried on; or ● There is a person who has and habitually exercises an authority to conduct business in the UAE on behalf of the foreign person. A fixed place of business would not be considered a Permanent Establishment if it is used solely to store, display or deliver goods or merchandise belonging to the foreign person or to conduct any activities that are of a preparatory or auxiliary nature. A Permanent Establishment would not arise if the person who has and habitually exercises an authority to conduct business in the UAE on behalf of the foreign person acts as an independent agent. Where relevant, the application of an international agreement should be taken into consideration when determining whether a permanent establishment exists.
+--------------------------------------------------
+Question: 355. What is the realisation principle, and when is income realised for UAE CT purposes?
+Answer: As under many other Corporate Tax systems, the UAE CT regime allows taxpayers to apply the realisation principle for determining their taxable income. This means that income will only be taxable, and a deduction would only be able to be taken, if and when a gain or loss is realised. Realisation would happen, for example, when the relevant asset is sold or terminated. Under the realisation principle, the taxable income for each Tax Period would exclude gains and losses in respect of assets or liabilities that are subject to fair value or impairment accounting.
+--------------------------------------------------
+Question: 356. Will Value Added Tax paid be deductible for UAE CT?
+Answer: Only irrecoverable input Value Added Tax may be deductible for CT purposes. Otherwise, Value Added Tax charged and Value Added Tax incurred would not impact the calculation of taxable income.
+--------------------------------------------------
+Question: 357. What documentation should be maintained in respect of transfer pricing?
+Answer: Businesses will be required to maintain information regarding their transactions with Related Parties and Connected Persons, and certain businesses will be required to submit this information along with their tax return. Businesses that claim small business relief will not have to comply with the transfer pricing documentation rules. Certain businesses may be requested to maintain a master file and a local file.
+--------------------------------------------------
+Question: 358. How will international airlines and shipping companies be taxed?
+Answer: Income earned by foreign operators of aircrafts and ships will be exempt from UAE CT in respect of: 1. providing international transportation of passengers, livestock, mail, parcels, merchandise or goods by air or by sea; 2. leasing or chartering aircrafts or ships used in international transportation; or 3. leasing or chartering equipment which are integral to the seaworthiness of ships or the airworthiness of aircrafts used in international transportation. This exemption would only apply where the country of the foreign airline or shipping company would grant a similar exemption to UAE operators of aircrafts and ships.
+--------------------------------------------------
+Question: 359. Will a UAE branch constitute a taxable Permanent Establishment for the foreign business?
+Answer: A UAE branch of a foreign business would generally be subject to UAE CT, unless the activities of the branch do not give rise to a permanent establishment in the UAE for CT purposes (see section ‘Foreign persons’).
+--------------------------------------------------
+Question: 360. How are UAE tax residents subject to UAE CT?
+Answer: UAE resident juridical persons will be subject to UAE CT on their income source from both the UAE and from abroad, although certain income earned through foreign subsidiaries and income of foreign branches that is subject to tax in another jurisdiction will generally be exempt from UAE CT. Further details of these exemptions are set out under question ‘Will the income of foreign branches of a UAE business be subject to UAE CT?’ under section Branches and question ‘What is the participation exemption regime?’ under section Income exempt from CT. Where income earned from abroad is not exempt, relief for income taxes paid in the foreign jurisdiction can be taken as a credit against the CT payable in the UAE on the relevant income to prevent double taxation (see section ‘Tax Credits’).
+--------------------------------------------------
+Question: 361. How do you determine taxable income for UAE CT?
+Answer: The taxable income for a Tax Period will be the accounting net profit (or loss) of the business, after making adjustments for certain items specified in the Corporate Tax Law. The accounting net profit (or loss) of a business is the amount reported in its financial statements prepared in accordance with internationally acceptable accounting standards. Adjustments to the accounting net profit (or loss) will need to be made for the following items: 1.	Unrealised gains and losses (subject to the election made regarding the application of the realisation principle); 2.	Exempt income such as qualifying dividends and capital gains; 3.	Income arising on intra-group transfers; 4.	Deductions which are not allowable for tax purposes; 5.	Transactions with Related Parties and Connected Persons; 6.	Transfers of tax losses within the group where      relevant; 7.	Incentives or tax reliefs; and 8.	Any other adjustments as specified by the Minister.
+--------------------------------------------------
+Question: 362. Will self-employed persons (e.g. freelancers) be subject to UAE CT?
+Answer: Self-employed persons would only be subject to UAE CT if their activity is a taxable business or business activity as per the Cabinet Decision that will be issued in due course. Even if the self-employed person is considered to be undertaking a taxable business or business activity, no CT would be payable on the first AED 375,000 of net income / profit earned from the activity, and further relief (small business relief) may be available to the self-employed person and other individual entrepreneurs.
+--------------------------------------------------
+Question: 363. Will a sole proprietorship or civil company be treated as a juridical person for CT purposes?
+Answer: No, but individuals who conduct business in the UAE through a sole proprietorship or civil company may be subject to CT where a relevant business or business activity is undertaken.
+--------------------------------------------------
+Question: 364. Could the activities of a UAE-based investment manager result in a foreign investment fund / vehicle to be considered resident in the UAE for UAE CT purposes?
+Answer: Where the conditions of the Investment Manager Exemption are met, a UAE-based investment manager should not create possible UAE residency for CT purposes for the foreign investment fund / investment vehicle it manages.
+--------------------------------------------------
+Question: 365. What are preparatory or auxiliary activities?
+Answer: Preparatory or auxiliary activities are those performed in preparation or in support of more substantive business activities of the foreign entity. Examples of preparatory and auxiliary activities include storage, display or delivery of goods or merchandise belonging to the foreign entity, limited marketing and promotional activities, performing market research and attending seminars or conventions. Where relevant, the application of an international agreement for the avoidance of double taxation should be taken into consideration when determining whether a permanent establishment exists or whether the activities performed are preparatory or auxiliary in nature.
+--------------------------------------------------
+Question: 366. Do taxpayers need to consider whether intra-group loan arrangements are at arm's length?
+Answer: Yes. Transfer pricing rules will apply to all transactions with Related Parties and Connected Persons. Therefore, any loan obtained from (or granted to) a Related Party or Connected Person needs to be at arm’s length (e.g. interest rate, duration, etc.).
+--------------------------------------------------
+Question: 367. How often will UAE businesses need to file a UAE CT return?
+Answer: Only one UAE CT return will need to be filed per Tax Period. The CT return will generally be due within 9 months following the end of the Tax Period. No provisional or advance UAE CT filings will be required.
+--------------------------------------------------
+Question: 368. Will the investment in UAE real estate constitute a taxable permanent establishment in the UAE?
+Answer: A foreign individual that owns property in the UAE in his or her personal capacity would generally not be subject to UAE CT and related compliance obligations. The investment in UAE real estate by a foreign juridical person may give rise to a taxable permanent establishment where the real estate represents a fixed place of business in the UAE through which the business of the foreign person is wholly or partially carried out. For more information on what would trigger a ‘fixed or permanent place of business’ under the permanent establishment rules, see question ’How do I know if I have a Permanent Establishment in the UAE?’ under section Foreign Persons.
+--------------------------------------------------
+Question: 369. How are capital gains taxed?
+Answer: No distinction is made between gains arising from the sale of capital assets and those arising from the sale of non-capital (revenue) assets. Capital gains derived from the disposal of assets are included in annual taxable income in the same manner as other income from the business. Capital gains on the sale of shares may be exempt from corporate income tax, subject to meeting certain conditions (see question ‘Are capital gains exempt from UAE CT?’ under section Income exempt from CT).
+--------------------------------------------------
+Question: 370. What is a Tax Period?
+Answer: Given CT is imposed on an annual basis, it is necessary to specify the “Tax Period”. The Tax Period will normally be the Gregorian calendar year (i.e. from 1 January to 31 December), unless the business applies a different 12-month period for preparing its financial statements.
+--------------------------------------------------
+Question: 371. Will income earned by an individual from bank deposits be subject to UAE CT?
+Answer: Interest and other personal investment and savings income earned by an individual in their personal capacity should not be subject to UAE CT.
+--------------------------------------------------
+Question: 372. Can investment holding companies and Special Purpose Vehicles used by an investment fund benefit from an exemption form UAE CT?
+Answer: Wholly-owned UAE investment holding companies and other Special Purposes Vehicles used by an investment fund to deploy capital and hold investments can apply to the Federal Tax Authority to benefit from the UAE CT exemption granted to the investment fund.
+--------------------------------------------------
+Question: 373. What determines whether income is sourced from the UAE?
+Answer: Income will be considered to be sourced from the UAE, if: ● the income is derived from a UAE resident; ● the income derived is attributed to a Permanent Establishment in the UAE of a non-UAE resident; or ● the income is derived from activities performed, assets located, capital invested, rights used or services performed or benefited from in the UAE. The Corporate Tax Law includes a non-exhaustive list of income that is considered as being sourced in the UAE. A Cabinet Decision may be issued in due course specifying the types of UAE sourced income subject to withholding tax. The UAE withholding tax rate is set at 0%.
+--------------------------------------------------
+Question: 374. Would transactions in a Tax Group need to comply with transfer pricing rules?
+Answer: Transactions between members of a Tax Group are eliminated in the consolidation of the Group’s financial results statements and hence do not need to comply with the transfer pricing rules, unless a member of the Tax Group needs to compute its stand-alone Taxable Income for the purposes of utilising Tax Losses incurred before joining the Tax Group or when leaving a Tax Group.
+--------------------------------------------------
+Question: 375. I do not have any income / or my company is dormant, do I have to complete a UAE CT return?
+Answer: Taxpayers are required to file a CT return, irrespective of the level of income or the status of the company.
+--------------------------------------------------
+Question: 376. What are the UAE CT rates?
+Answer: Taxpayer Applicable CT rate Individuals and juridical persons 0% for taxable income up to and including AED 375,000 (this amount is to be confirmed in a Cabinet Decision) 9% for taxable income exceeding AED 375,000 Qualifying Free Zone Persons (see further information below) 0% on qualifying income 9% on taxable income that does not meet the qualifying income definition
+--------------------------------------------------
+Question: 377. Will an individual be subject to UAE CT on investment returns?
+Answer: UAE and foreign individuals will not be subject to UAE CT on dividends, capital gains and other income earned from owning shares or other securities in their personal capacity.
+--------------------------------------------------
+Question: 378. Will UAE investment income earned by a foreign investor be subject to UAE CT?
+Answer: Income from dividends, capital gains, interest, royalties and other investment returns earned by foreign juridical persons or individuals will not be subject to UAE CT, unless such income can be attributed to a permanent establishment in the UAE of the foreign person.
+--------------------------------------------------
+Question: 379. I did not make a profit for the Tax Period, do I have to complete a UAE CT return?
+Answer: Taxpayers are required to file a CT return, irrespective of whether they have made a profit or not. Taxpayers with tax losses should ensure they file a CT return in order to ensure that these losses can be used to reduce taxable income of future years.
+--------------------------------------------------
+Question: 380. Will an individual be subject to UAE CT on income from real estate?
+Answer: Income earned by an individual from the investment in UAE property in their personal capacity will generally not be subject to UAE CT.
+--------------------------------------------------
+Question: 381. If a business has earned taxable income of AED 1 million, what will be the UAE CT amount payable?
+Answer: The CT liability will be calculated as follows: ●	Taxable income of AED 375,000 (amount to be confirmed in a Cabinet Decision) subject to CT at 0%: AED 375,000 x 0% = AED 0 ●	Taxable income exceeding AED 375,000 (amount to be confirmed in a Cabinet Decision) subject to CT at 9%: (AED 1,000,000 - AED 375,000) = AED 625,000 x 9% = AED 56,250 The UAE CT liability for the Tax Period will be AED 0 + AED 56,250 = AED 56,250 The final amount of UAE CT payable can be reduced by available tax credits (see section ‘Tax Credits’ section).
+--------------------------------------------------
+Question: 382. Can I file one UAE CT return for all the companies I own?
+Answer: If the companies meet the requirements to form a Tax Group (see section ‘Tax Groups’) and their application to form a Tax Group is approved, they can file a single UAE CT return covering all the members of the Tax Group. Where companies cannot form a Tax Group, they will each be required to file a UAE CT return on a standalone basis.
+--------------------------------------------------
+Question: 383. Will small businesses be given any UAE CT relief?
+Answer: In addition to a 0% CT rate for taxable income up to and including AED 375,000, small businesses with revenue below a certain threshold can claim ‘small business relief’ and be treated as having no taxable income during the relevant Tax Period and may be subject to simplified compliance obligations. To claim small business relief, an election must be made to the FTA.
+--------------------------------------------------
+Question: 384. Will the CT return need to be filed electronically?
+Answer: UAE CT returns will need to be filed electronically. Further guidance on this will be provided in due course.
+--------------------------------------------------
+Question: 385. Who can claim small business relief for UAE CT purposes?
+Answer: Any UAE resident juridical person or individual with revenues below the threshold defined by the Minister and that meets any other conditions that may be set, can claim small business relief.
+--------------------------------------------------
+Question: 386. When do I need to pay my UAE CT liability?
+Answer: UAE CT will generally need to be paid before the end of the 9 months following the end of the relevant Tax Period.
+--------------------------------------------------
+Question: 387. What is revenue?
+Answer: Revenue is the gross amount of income derived in a tax period from sales of inventory and properties, services, royalties, interest, premiums, dividends and any other amounts, before deducting any type of costs or expenditure. In the context of income from sales or services, gross income means gross revenues from sales or services without deducting the cost of goods sold or the cost of services.
+--------------------------------------------------
+Question: 388. How do I pay my UAE CT liability?
+Answer: Further guidance on the approved payment methods will be provided in due course.
+--------------------------------------------------
+Question: 389. Will there be a requirement to pay UAE CT in advance?
+Answer: No. UAE businesses will not be required to make advance UAE CT payments. The CT liability for a Tax Period will generally be due for payment by the end of the 9th month following the end of the relevant Tax Period.
+--------------------------------------------------
+Question: 390. Are there any consequences for non-compliance under the UAE CT regime?
+Answer: Similar to other taxes in the UAE (e.g. VAT), businesses will be subject to penalties for non-compliance with the UAE CT regime. Further information on the UAE CT compliance obligations and applicable penalties will be released in due course.
+--------------------------------------------------
+Question: 391. What is a “Family Foundation”?
+Answer: A Family Foundation (as defined in the UAE Corporate Tax Law) is a foundation, trust or similar entity used to protect and manage the assets and wealth of an individual or family. The principal activity of a Family Foundation would generally be to receive, hold, invest, disburse, or otherwise manage funds and assets associated with savings or investment for the interest of individual beneficiaries or to achieve a charitable purpose. Such activities would typically not constitute a “business” or “business activity” for UAE CT purposes if they were undertaken directly by the founder, beneficiary or any other individual.
+--------------------------------------------------
+Question: 392. What income is exempt from UAE CT?
+Answer: The following income is exempt from UAE CT: 1. Dividends and other profit distributions received from UAE incorporated or resident legal persons; 2. Dividends and other profit distributions received from a Participating Interest in a foreign juridical person (see further information below); 3. Certain other income (e.g., capital gains, foreign exchange gains / losses and impairment gains or losses) from a Participating Interest (see further information below); 4. Income from a foreign branch or permanent establishment where an election is made to claim the “Foreign Permanent Establishment” exemption; and 5. Income earned by non-residents from the operation or leasing of aircrafts or ships in international transportation where certain conditions are met (see further information below).
+--------------------------------------------------
+Question: 393. Are all dividends and other profit distributions earned from UAE juridical persons  exempt from UAE CT?
+Answer: Domestic dividends and other profit distributions earned from UAE juridical persons are exempt from UAE CT, irrespective of the level of ownership in the UAE juridical person paying the dividend or profit share. This exemption also applies to dividends received from a UAE juridical person  that benefits from a CT exemption or whose profits are subject to the 0% Free Zone CT rate.
+--------------------------------------------------
+Question: 394. Are all dividends and other profit distributions from foreign juridical persons exempt from UAE CT?
+Answer: Subject to the participation exemption requirements, dividends and other profit distributions earned from a Participating Interest in a foreign juridical person are exempt from UAE CT. A Participating Interest is a 5% or greater ownership interest in the capital or equity of the foreign juridical person that meets the conditions of the participation exemption regime.
+--------------------------------------------------
+Question: 395. Are capital gains exempt from UAE CT?
+Answer: Under the participation exemption regime, capital gains earned from a Participating Interest are exempt from UAE CT. Also, there is relief from CT for capital gains that may arise on intra-group transfers and reorganisation and restructuring transactions. Other capital gains would be treated as ordinary income and subject to CT.
+--------------------------------------------------
+Question: 396. What is the participation exemption regime?
+Answer: The background to the participation exemption regime is to prevent double taxation within a group where an underlying group company (that pays the dividend or whose shares are being sold) has already been taxed on its profits. The Corporate Tax Law fully exempts dividends derived from UAE entities, as well as dividends from foreign subsidiaries that qualify as a “Participation”. A Participation is a juridical person in which the UAE shareholder company owns a 5% or greater ownership interest (a “Participating Interest”) for at least 12 months, and that meets the conditions of the participation exemption regime. Similarly, capital gains on the sale of shares in domestic and foreign entities would also be exempt from CT. This exemption is subject to the same minimum ownership threshold, duration and other conditions mentioned above.
+--------------------------------------------------
+Question: 397. Can I benefit from a UAE CT exemption if I own less than a 5% shareholding in a company?
+Answer: There can be instances where a UAE business makes a strategic investment in another company that does not result in a 5% or greater ownership interest, or where the percentage ownership in the Participation falls below the 5% ownership threshold because of events outside of the control of the UAE shareholder company. To address such instances and reduce the administrative burden associated with monitoring the continued compliance with the minimum ownership requirement under the participation exemption regime, the Minister may prescribe a certain minimum acquisition cost / value above which the ownership interest in another juridical person is deemed to be a qualifying “Participation”, and the income from this investment can benefit from the participation exemption.
+--------------------------------------------------
+Question: 398. What are “Tax Losses”?
+Answer: A loss for CT purposes (“Tax Loss”) would arise when the total deductions a business can claim are greater than the total income that is subject to tax for the relevant Tax Period, resulting in negative taxable income.
+--------------------------------------------------
+Question: 399. Will the UAE CT regime allow prior year tax losses to reduce taxable income?
+Answer: Tax losses can, subject to certain conditions, be offset against the taxable income of future periods, up to a maximum of 75% of the taxable income in each of those future periods. Any excess (unused) tax losses can be carried forward and used against taxable income of future Tax Periods indefinitely. Example A taxpayer has taxable income of AED 100,000 and carried forward losses of AED 125,000. It can offset (75% x AED 100,000) = AED 75,000 of its losses carried forward in the relevant Tax Period, reducing its taxable income to AED 25,000. The amount of tax losses available for carry forward to subsequent Tax periods would reduce to AED 50,000 (AED 125,000 - AED 75,000).
+--------------------------------------------------
+Question: 400. Will a change in ownership of the taxable person restrict the ability to use its tax losses?
+Answer: Tax losses can be carried forward without limitation provided the same person or persons continue to own at least 50% of the entity with the losses. Where there is a greater than 50% change in ownership, tax losses may still be carried forward provided there is no major change in the nature or conduct of the entity's business.
+--------------------------------------------------
+Question: 401. Will a group be able to utilise the tax losses of one group company against the taxable income of another group company?
+Answer: Tax losses from one UAE group company may be used to offset taxable income of another UAE group company where there is 75% or more common ownership and certain other conditions are met. No tax loss transfers will be allowed from companies that are exempt or that benefit from the 0% Free Zone CT regime.
+--------------------------------------------------
+Question: 402. What are the conditions for the transfer of tax losses within a group?
+Answer: The UAE companies must meet the following conditions to transfer an amount of tax losses from one company to another in the same Tax Period: 1. Both companies are UAE resident juridical persons; 2. Either owns 75% or more of the other, or a third party owns 75% or more of both entities and this ownership existed at the start and end of the Tax Period in which the loss was incurred; 3. Neither company is an Exempt Person; 4. Neither company is a Qualifying Free Zone business; and 5. The financial statements must be prepared using the same accounting standards, and using the same financial year.
+--------------------------------------------------
+Question: 403. What UAE CT rates will apply to entities established in a Free Zone?
+Answer: Entities established in a Free Zone that meet the conditions to benefit from the Free Zone CT regime (“Qualifying Free Zone Persons”) will be subject to UAE CT at the following rates: ● 0% on Qualifying Income. ● 9% on Taxable Income that does not meet the Qualifying Income definition.
+--------------------------------------------------
+Question: 404. Is the 0% Free Zone CT regime applicable automatically?
+Answer: A Qualifying Free Zone Person that meets the relevant conditions will be able to benefit from the 0% Free Zone CT regime automatically. However, a Qualifying Free Zone Person can elect not to apply the Free Zone CT regime, but instead be subject to the regular CT regime and rates.
+--------------------------------------------------
+Question: 405. What is a Qualifying Free Zone Person?
+Answer: To be treated as a “Qualifying Free Zone Person”, the Free Zone entity must: 1. Maintain adequate substance in the UAE; 2. Derive “Qualifying Income” as specified in a Cabinet Decision; 3. Comply with transfer pricing rules and maintain the relevant transfer pricing documentation; and 4. Not have made an election to be subject to CT in full.
+--------------------------------------------------
+Question: 406. Will a Free Zone entity be required to register and file a UAE CT return?
+Answer: Yes. All Free Zone entities will be required to register and file a CT return, irrespective of whether they are a Qualifying Free Zone Person or not.
+--------------------------------------------------
+Question: 407. Will a different UAE CT treatment apply to entities established in a financial Free Zone?
+Answer: No. The UAE CT treatment will be the same for all Free Zone entities.
+--------------------------------------------------
+Question: 408. Will Free Zone entities be subject to the global minimum tax (OECD, BEPS      Pillar 2) rules?
+Answer: Qualifying Free Zone entities that are part of a large multinational group are anticipated to be subject to a different CT rate once the Pillar Two rules are embedded into the UAE CT regime.
+--------------------------------------------------
+Question: 409. Will a group of UAE companies be able to form a Tax Group for UAE CT purposes?
+Answer: UAE companies can apply to form a Tax Group and be treated as a single taxable person if the UAE parent company (directly or indirectly) holds at least 95% of the share capital and voting rights of each of the companies. Example: Company A owns, 20% of company B, and 100% of Company C. Company C owns 80% of the shares of Company B. Because Company A indirectly owns 100% of the shares of Company B (80% via Company C), it can form a Tax Group with both Company B and Company C. To form a Tax Group, neither the parent company nor any of the subsidiaries can be an exempt person or a Free Zone entity benefitting from the 0% CT rate, and all companies must use the same financial year and prepare their financial statements using the same accounting standards.
+--------------------------------------------------
+Question: 410. Can UAE subsidiaries of a foreign parent company form a Tax Group for UAE CT purposes?
+Answer: Being (ultimately) owned by a foreign parent company does not preclude UAE subsidiaries from forming a Tax Group, but the UAE subsidiaries must be held by an intermediary UAE parent company that will be the “parent” of the Tax Group for UAE CT purposes.
+--------------------------------------------------
+Question: 411. Can foreign entities be included in a Tax Group?
+Answer: No, unless the foreign entity is managed and controlled in the UAE and considered a UAE resident entity for UAE CT purposes. This is because only UAE resident juridical persons can form or be part of a Tax Group.
+--------------------------------------------------
+Question: 412. Will the 0% CT rate threshold apply to the Tax Group as a whole?
+Answer: Yes. The 0% threshold of AED 375,000 (amount to be confirmed in a Cabinet Decision) will apply to the Tax Group as a single taxpayer, irrespective of the number of entities that form part of the Tax Group.
+--------------------------------------------------
+Question: 413. Who will be responsible for the filing of the UAE CT and for payment of the UAE CT due once a Tax Group is formed?
+Answer: Once formed, the Tax Group is treated as a single taxable person, with the parent company responsible for the administration and payment of CT on behalf of the group. For the period they are group members, the parent company and each subsidiary will be jointly and severally liable for the UAE CT obligations of the Tax Group. This joint and several liability can be limited to one or more named members of the Tax Group, with approval from the Federal Tax Authority.
+--------------------------------------------------
+Question: 414. Will the Tax Group need to prepare consolidated financial statements?
+Answer: Yes. To determine the taxable income of the Tax Group, the parent company will have to consolidate the financial accounts of each subsidiary for the relevant Tax Period, and eliminate transactions between the parent company and each subsidiary group member.
+--------------------------------------------------
+Question: 415. Will there be any relief available for transfers between group companies?
+Answer: Yes. Companies that are part of a ‘Qualifying Group’ can transfer assets and liabilities between themselves at their net book value. This means that the transfer can be carried out tax neutrally (i.e. not give rise to a gain or loss for CT purposes).
+--------------------------------------------------
+Question: 416. What is a Qualifying Group?
+Answer: A Qualifying Group exists where all of the following conditions are met: ● The members are juridical persons which are UAE residents or non-resident persons that have a permanent establishment in the UAE; ● Either owns 75% or more of the other, or a third party owns 75% or more of both entities; ● Neither member is an Exempt Person; ● Neither member is a Qualifying Free Zone Person; and ● Members prepare their financial statements using the same accounting standards, and have the same financial year.
+--------------------------------------------------
+Question: 417. Will there be any relief to facilitate mergers, spin-offs and other restructuring transactions?
+Answer: Yes. The UAE CT regime allows for legal mergers, business mergers, spin-offs and other transfers and restructuring transactions that meet the conditions specified to be carried out without triggering a gain or loss for CT purposes.
+--------------------------------------------------
+Question: 418. What records should I keep for UAE CT purposes?
+Answer: Taxpayers are expected to prepare and maintain financial statements for the purposes of calculating their taxable income, and should maintain all documents and records that support the information in the CT return or in any other filing made with the Authority. Exempt persons are required to maintain all records to support their exempt status.
+--------------------------------------------------
+Question: 419. How long must I keep my records for UAE CT purposes?
+Answer: Records and documents should be kept for at least seven years following the end of the relevant Tax Period.
+--------------------------------------------------
+Question: 420. Can I use the consolidated financial statements of the group to prepare the UAE CT return for my UAE business?
+Answer: No, unless the group only comprises UAE resident entities that have applied to form a Tax Group. Otherwise, each UAE entity that is subject to CT will need to prepare and maintain stand-alone financial statements for UAE CT purposes.
+--------------------------------------------------
+Question: 421. Will all entities that are subject to UAE CT be required to have audited financial statements?
+Answer: No. Only the categories of taxable persons that are listed in a decision issued by the Minister will be required to prepare and maintain audited or certified financial statements.
+--------------------------------------------------
+Question: 422. Will the consolidated financial statements of a Tax Group need to be audited for CT purposes?
+Answer: No. Only the categories of taxable persons that are listed in a decision issued by the Minister will be required to prepare and maintain audited or certified financial statements.
+--------------------------------------------------
+Question: 423. Will I need to submit my financial statements to the Federal Tax Authority?
+Answer: The Federal Tax Authority may request for the financial statements to be submitted alongside the CT tax return, or for the financial statements to be provided upon request.
+--------------------------------------------------
+Question: 424. What currency do I use for UAE CT purposes?
+Answer: A taxpayer’s income, deductions and credits must be measured in the national currency of the UAE (AED), and income derived and expenses incurred in a foreign currency need to be translated into AED. In principle, taxpayers are expected to translate amounts denominated in a foreign currency on a transaction-by-transaction basis. This means that the receipt of income denominated in foreign currency should be translated into AED at the time the income is derived. Similarly, each deductible expenditure denominated in a foreign currency should be translated into AED at the time the expenditure is incurred.
+--------------------------------------------------
+Question: 425. Are Family Foundations subject to UAE CT?
+Answer: Foundations and certain types of trusts are independent juridical persons with separate legal personality, and would therefore prima facie be subject to UAE CT in their own right. However, these types of Family Foundations can apply to be treated as transparent “Unincorporated Partnerships” for UAE CT purposes, resulting in the founder/settlor and the beneficiaries of the trust to remain to be seen as owners of the assets held by the trust. This would generally prevent the income of the foundation or trust from attracting UAE CT. Other types of trusts (for example, trusts established in the DIFC or ADGM) are a contractual relationship between two or more persons (e.g., the beneficiary, settlor, and trustee) and do not have separate legal personality. These types of trusts will by default be treated as transparent vehicles for UAE CT purposes.
+--------------------------------------------------
+Question: 426. What exchange rate do I use for UAE CT purposes?
+Answer: For UAE CT purposes, all amounts must be converted to AED based on the applicable exchange rate set by the Central Bank of the UAE at the time the foreign currency transaction is to be translated into the national currency, unless the Federal Tax Authority allows the taxpayer to use an exchange rate that more accurately reflects the taxpayer’s income.
+--------------------------------------------------
+Question: 421. Will all entities that are subject to UAE CT be required to have audited financial statements?
+Answer: No. Only the categories of taxable persons that are listed in a decision issued by the Minister will be required to prepare and maintain audited or certified financial statements.
+--------------------------------------------------
+Question: 422. Will the consolidated financial statements of a Tax Group need to be audited for CT purposes?
+Answer: No. Only the categories of taxable persons that are listed in a decision issued by the Minister will be required to prepare and maintain audited or certified financial statements.
+--------------------------------------------------
+Question: 423. Will I need to submit my financial statements to the Federal Tax Authority?
+Answer: The Federal Tax Authority may request for the financial statements to be submitted alongside the CT tax return, or for the financial statements to be provided upon request.
+--------------------------------------------------
+Question: 424. What currency do I use for UAE CT purposes?
+Answer: A taxpayer’s income, deductions and credits must be measured in the national currency of the UAE (AED), and income derived and expenses incurred in a foreign currency need to be translated into AED. In principle, taxpayers are expected to translate amounts denominated in a foreign currency on a transaction-by-transaction basis. This means that the receipt of income denominated in foreign currency should be translated into AED at the time the income is derived. Similarly, each deductible expenditure denominated in a foreign currency should be translated into AED at the time the expenditure is incurred.
+--------------------------------------------------
+Question: 425. Are Family Foundations subject to UAE CT?
+Answer: Foundations and certain types of trusts are independent juridical persons with separate legal personality, and would therefore prima facie be subject to UAE CT in their own right. However, these types of Family Foundations can apply to be treated as transparent “Unincorporated Partnerships” for UAE CT purposes, resulting in the founder/settlor and the beneficiaries of the trust to remain to be seen as owners of the assets held by the trust. This would generally prevent the income of the foundation or trust from attracting UAE CT. Other types of trusts (for example, trusts established in the DIFC or ADGM) are a contractual relationship between two or more persons (e.g., the beneficiary, settlor, and trustee) and do not have separate legal personality. These types of trusts will by default be treated as transparent vehicles for UAE CT purposes.
+--------------------------------------------------
+Question: 426. What exchange rate do I use for UAE CT purposes?
+Answer: For UAE CT purposes, all amounts must be converted to AED based on the applicable exchange rate set by the Central Bank of the UAE at the time the foreign currency transaction is to be translated into the national currency, unless the Federal Tax Authority allows the taxpayer to use an exchange rate that more accurately reflects the taxpayer’s income.
+--------------------------------------------------
